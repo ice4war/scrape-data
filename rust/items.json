@@ -1290,6 +1290,16 @@
     "description": "BGP"
   },
   {
+    "name": "0xdea/haruspex [haruspex]",
+    "url": "https://github.com/0xdea/haruspex",
+    "description": "Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler "
+  },
+  {
+    "name": "0xdea/rhabdomancer [rhabdomancer]",
+    "url": "https://github.com/0xdea/rhabdomancer",
+    "description": "Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file "
+  },
+  {
     "name": "AdGuardian-Term [adguardian]",
     "url": "https://github.com/Lissy93/AdGuardian-Term",
     "description": "Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance"
@@ -1385,8 +1395,8 @@
     "description": "A password manager, filesystem compatible with pass"
   },
   {
-    "name": "rustscan/rustscan",
-    "url": "https://github.com/RustScan/RustScan",
+    "name": "rustscan",
+    "url": "https://github.com/bee-san/RustScan",
     "description": "Make Nmap faster with this port scanning tool "
   },
   {
@@ -1495,13 +1505,18 @@
     "description": "A replacement for 'ls'"
   },
   {
+    "name": "fish-shell/fish-shell",
+    "url": "https://github.com/fish-shell/fish-shell",
+    "description": "The user-friendly command line shell"
+  },
+  {
     "name": "fselect",
     "url": "https://crates.io/crates/fselect",
     "description": "Find files with SQL-like queries"
   },
   {
     "name": "gitui",
-    "url": "https://github.com/extrawurst/gitui",
+    "url": "https://github.com/gitui-org/gitui",
     "description": "Blazing fast terminal client for git. "
   },
   {
@@ -2058,16 +2073,6 @@
     "name": "youki-dev/youki",
     "url": "https://github.com/youki-dev/youki",
     "description": "A container runtime "
-  },
-  {
-    "name": "0xdea/haruspex [haruspex]",
-    "url": "https://github.com/0xdea/haruspex",
-    "description": "Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler "
-  },
-  {
-    "name": "0xdea/rhabdomancer [rhabdomancer]",
-    "url": "https://github.com/0xdea/rhabdomancer",
-    "description": "Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file "
   },
   {
     "name": "cfal/tobaru",
@@ -5150,11 +5155,6 @@
     "description": "Dataframe structure and operations"
   },
   {
-    "name": "mjovanc/numru",
-    "url": "https://github.com/mjovanc/numru",
-    "description": "A high-performance scientific computation library."
-  },
-  {
     "name": "pg_analytics",
     "url": "https://github.com/paradedb/paradedb/tree/dev/pg_analytics",
     "description": "PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases."
@@ -5180,8 +5180,8 @@
     "description": "High-performance real-time analytics in Rust and SQL "
   },
   {
-    "name": "iggy-rs/iggy [iggy]",
-    "url": "https://github.com/iggy-rs/iggy",
+    "name": "iggy [iggy]",
+    "url": "https://github.com/apache/iggy",
     "description": "Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols "
   },
   {
@@ -6486,27 +6486,27 @@
   },
   {
     "name": "serde-rs/json [serde_json]",
-    "url": "https://github.com/media-io/yaserde",
+    "url": "https://github.com/netvl/xml-rs",
     "description": "JSON support for Serde framework"
   },
   {
     "name": "simd-lite/simd-json [simd-json]",
-    "url": "https://github.com/netvl/xml-rs",
+    "url": "https://github.com/shepmaster/sxd-document",
     "description": "High performance JSON parser based on a port of simdjson"
   },
   {
     "name": "MsgPack\n\n3Hren/msgpack-rust",
-    "url": "https://github.com/shepmaster/sxd-document",
+    "url": "https://github.com/shepmaster/sxd-xpath",
     "description": "Low/high level MessagePack implementation\n\n"
   },
   {
     "name": "3Hren/msgpack-rust",
-    "url": "https://github.com/shepmaster/sxd-xpath",
+    "url": "https://github.com/tafia/quick-xml",
     "description": "Low/high level MessagePack implementation"
   },
   {
     "name": "NetCDF\n\ngeorust/netcdf [netcdf]",
-    "url": "https://github.com/tafia/quick-xml",
+    "url": "https://github.com/luminvent/yaserde",
     "description": "Medium-level netCDF bindings, allowing easy reading and writing of array-like structures to a file.\n\n"
   },
   {
@@ -6685,11 +6685,6 @@
     "description": "an XML parser"
   },
   {
-    "name": "media-io/yaserde",
-    "url": "https://github.com/media-io/yaserde",
-    "description": "Yet Another Serializer/Deserializer specialized for XML"
-  },
-  {
     "name": "netvl/xml-rs",
     "url": "https://github.com/netvl/xml-rs",
     "description": "A streaming XML library"
@@ -6708,6 +6703,11 @@
     "name": "tafia/quick-xml",
     "url": "https://github.com/tafia/quick-xml",
     "description": "High performance XML pull reader/writer"
+  },
+  {
+    "name": "yaserde",
+    "url": "https://github.com/luminvent/yaserde",
+    "description": "Yet Another Serializer/Deserializer specialized for XML"
   },
   {
     "name": "chyh1990/yaml-rust",
@@ -9691,23 +9691,18 @@
   },
   {
     "name": "Rustlings",
-    "url": "https://learn.microsoft.com/en-us/training/paths/rust-first-steps/",
+    "url": "https://tourofrust.com",
     "description": "small exercises to get you used to reading and writing Rust code"
   },
   {
     "name": "Rusty CS",
-    "url": "https://tourofrust.com",
+    "url": "https://newrustacean.com",
     "description": "A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust"
   },
   {
     "name": "stdx",
-    "url": "https://newrustacean.com",
-    "description": "Learn these crates first as an extension to std"
-  },
-  {
-    "name": "Take your first steps with Rust",
     "url": "https://rustacean-station.org/",
-    "description": "Lay the foundation of knowledge you need to build fast and effective programs in Rust."
+    "description": "Learn these crates first as an extension to std"
   },
   {
     "name": "Tour of Rust",
@@ -9943,11 +9938,6 @@
     "name": "stdx",
     "url": "https://github.com/brson/stdx",
     "description": "Learn these crates first as an extension to std"
-  },
-  {
-    "name": "Take your first steps with Rust",
-    "url": "https://learn.microsoft.com/en-us/training/paths/rust-first-steps/",
-    "description": "Lay the foundation of knowledge you need to build fast and effective programs in Rust."
   },
   {
     "name": "Tour of Rust",

@@ -15,6 +15,11 @@
     "description": "Configure a honeypot to see who's trying to hack your site."
   },
   {
+    "name": "django-admin-inline-paginator-plus",
+    "url": "https://github.com/DmytroLitvinov/django-admin-inline-paginator-plus",
+    "description": "A simple way to paginate your inline in Django admin"
+  },
+  {
     "name": "django-loginas",
     "url": "https://github.com/skorokithakis/django-loginas",
     "description": "\"Log in as user\" for the Django admin."
@@ -1305,6 +1310,11 @@
     "description": "PyVideo is an index of Python related media."
   },
   {
+    "name": "Django for APIs, Fifth Edition",
+    "url": "https://learndjango.com/courses/django-for-apis/",
+    "description": null
+  },
+  {
     "name": "Boost Your Django DX",
     "url": "https://adamchainz.gumroad.com/l/byddx",
     "description": null
@@ -1321,37 +1331,7 @@
   },
   {
     "name": "Django for Beginners, Fifth Edition",
-    "url": "https://djangoforbeginners.com/",
-    "description": null
-  },
-  {
-    "name": "Django for APIs: Build web APIs with Python and Django",
-    "url": "https://djangoforapis.com/",
-    "description": null
-  },
-  {
-    "name": "Django for Professionals: Production websites with Python and Django",
-    "url": "https://djangoforprofessionals.com/",
-    "description": null
-  },
-  {
-    "name": "Understand Django: An Exploration of the Django Web Framework",
-    "url": "https://www.mattlayman.com/understand-django/",
-    "description": null
-  },
-  {
-    "name": "Speed Up Your Django Tests",
-    "url": "https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/",
-    "description": null
-  },
-  {
-    "name": "Two Scoops of Django 3.x: Best Practices for the Django Web Framework",
-    "url": "https://www.feldroy.com/books/two-scoops-of-django-3-x",
-    "description": null
-  },
-  {
-    "name": "A Wedge of Django: Covers Python 3.8 and Django 3.x",
-    "url": "https://www.feldroy.com/books/a-wedge-of-django",
+    "url": "https://learndjango.com/courses/django-for-beginners/",
     "description": null
   },
   {
