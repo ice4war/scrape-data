@@ -1,0 +1,300 @@
+
+  {
+    "name": "Awesome Annotation Processing",
+    "url": "https://github.com/gunnarmorling/awesome-annotation-processing",
+    "description": null
+  },
+  {
+    "name": "Awesome Graal",
+    "url": "https://github.com/neomatrix369/awesome-graal",
+    "description": null
+  },
+  {
+    "name": "Awesome Gradle Plugins",
+    "url": "https://github.com/ksoichiro/awesome-gradle",
+    "description": null
+  },
+  {
+    "name": "AwesomeJavaFX",
+    "url": "https://github.com/mhrimaz/AwesomeJavaFX",
+    "description": null
+  },
+  {
+    "name": "Awesome JVM",
+    "url": "https://github.com/deephacks/awesome-jvm",
+    "description": null
+  },
+  {
+    "name": "Awesome Microservices",
+    "url": "https://github.com/mfornos/awesome-microservices",
+    "description": null
+  },
+  {
+    "name": "Awesome REST",
+    "url": "https://github.com/marmelab/awesome-rest",
+    "description": null
+  },
+  {
+    "name": "Awesome Selenium",
+    "url": "https://github.com/christian-bromann/awesome-selenium",
+    "description": null
+  },
+  {
+    "name": "Awesome Hybris",
+    "url": "https://github.com/eminyagiz42/awesome-hybris",
+    "description": null
+  },
+  {
+    "name": "ciandcd",
+    "url": "https://github.com/ciandcd/awesome-ciandcd",
+    "description": null
+  },
+  {
+    "name": "Useful Java Links",
+    "url": "https://github.com/Vedenin/useful-java-links",
+    "description": null
+  },
+  {
+    "name": "Java Concurrency Checklist",
+    "url": "https://github.com/code-review-checklists/java-concurrency",
+    "description": null
+  },
+  {
+    "name": "Java Developer Roadmap",
+    "url": "https://github.com/s4kibs4mi/java-developer-roadmap",
+    "description": null
+  },
+  
+  {
+    "name": "java.libhunt.com",
+    "url": "https://java.libhunt.com",
+    "description": null
+  },
+  
+  {
+    "name": "140 Second Ducklings",
+    "url": "https://twitter.com/debugagent/status/1491075324805001219",
+    "description": "Short videos on Twitter explaining Java debugging in depth."
+  },
+  {
+    "name": "A Bootiful Podcast",
+    "url": "https://bootifulpodcast.fm",
+    "description": null
+  },
+  {
+    "name": "Foojay Podcast",
+    "url": "https://foojay.io/today/category/podcast/",
+    "description": null
+  },
+  {
+    "name": "Inside Java (Official)",
+    "url": "https://inside.java/podcast",
+    "description": null
+  },
+  {
+    "name": "Java Off Heap",
+    "url": "http://www.javaoffheap.com",
+    "description": null
+  },
+  {
+    "name": "The Java Posse",
+    "url": "http://www.javaposse.com",
+    "description": "Discontinued as of 02/2015."
+  },
+  {
+    "name": "Adam Bien",
+    "url": "https://twitter.com/AdamBien",
+    "description": "Freelance author, JavaOne Rockstar speaker, consultant, Java Champion."
+  },
+  {
+    "name": "Aleksey Shipilëv",
+    "url": "https://twitter.com/shipilev",
+    "description": "Performance geek, benchmarking czar, concurrency bug hunter."
+  },
+  {
+    "name": "Antonio Goncalves",
+    "url": "https://twitter.com/agoncal",
+    "description": "Java Champion, JUG Leader, Devoxx France, Java EE 6/7, JCP, Author."
+  },
+  {
+    "name": "Arun Gupta",
+    "url": "https://twitter.com/arungupta",
+    "description": "Java Champion, JavaOne Rockstar, JUG Leader, Devoxx4Kids-er, VP of Developer Advocacy at Couchbase."
+  },
+  {
+    "name": "Brian Goetz",
+    "url": "https://twitter.com/BrianGoetz",
+    "description": "Java Language Architect at Oracle."
+  },
+  {
+    "name": "Bruno Borges",
+    "url": "https://twitter.com/brunoborges",
+    "description": "Product Manager/Java Jock at Oracle."
+  },
+  {
+    "name": "Chris Engelbert",
+    "url": "https://twitter.com/noctarius2k",
+    "description": "Open Source Enthusiast, Speaker, Developer, Developer Advocacy at TimescaleDB."
+  },
+  {
+    "name": "Chris Richardson",
+    "url": "https://twitter.com/crichardson",
+    "description": "Software architect, consultant, and serial entrepreneur, Java Champion, JavaOne Rock Star, *POJOs in Action- author."
+  },
+  {
+    "name": "Ed Burns",
+    "url": "https://twitter.com/edburns",
+    "description": "Consulting Member of the Technical Staff at Oracle."
+  },
+  {
+    "name": "Eugen Paraschiv",
+    "url": "https://twitter.com/baeldung",
+    "description": "Author of the Spring Security Course."
+  },
+  {
+    "name": "Heinz Kabutz",
+    "url": "https://twitter.com/heinzkabutz",
+    "description": "Java Champion, speaker, author of The Java Specialists' Newsletter, concurrency performance expert."
+  },
+  {
+    "name": "Holly Cummins",
+    "url": "https://twitter.com/holly_cummins",
+    "description": "Technical Lead of IBM London's Bluemix Garage, Java Champion, developer, author, JavaOne rockstar."
+  },
+  {
+    "name": "James Weaver",
+    "url": "https://twitter.com/JavaFXpert",
+    "description": "Java/JavaFX/IoT developer, author and speaker."
+  },
+  {
+    "name": "Java EE",
+    "url": "https://twitter.com/Java_EE",
+    "description": "Official Java EE Twitter account."
+  },
+  {
+    "name": "Java Magazine",
+    "url": "https://twitter.com/Oraclejavamag",
+    "description": "Official Java Magazine account."
+  },
+  {
+    "name": "Java",
+    "url": "https://twitter.com/java",
+    "description": "Official Java Twitter account."
+  },
+  {
+    "name": "Javin Paul",
+    "url": "https://twitter.com/javinpaul",
+    "description": "Well-known Java blogger."
+  },
+  {
+    "name": "Josh Long",
+    "url": "https://twitter.com/starbuxman",
+    "description": "Spring Advocate at Pivotal, author of O'Reilly's Cloud Native Java- and Building Microservices with Spring Boot, JavaOne Rock Star."
+  },
+  {
+    "name": "Lukas Eder",
+    "url": "https://twitter.com/lukaseder",
+    "description": "Java Champion, speaker, Founder and CEO Data Geekery (jOOQ)."
+  },
+  {
+    "name": "Mani Sarkar",
+    "url": "https://twitter.com/theNeomatrix369",
+    "description": "Java champion, Polyglot, Software Crafter involved with @graalvm, AI/ML/DL, Data Science, Developer communities, speaker & blogger. Creator of couple of awesome lists like this one."
+  },
+  {
+    "name": "Mario Fusco",
+    "url": "https://twitter.com/mariofusco",
+    "description": "RedHatter, JUG coordinator, frequent speaker and author."
+  },
+  {
+    "name": "Mark Heckler",
+    "url": "https://twitter.com/MkHeck",
+    "description": "Pivotal Principal Technologist and Developer Advocate, conference speaker, published author, and Java Champion, focusing on Internet of Things and the cloud."
+  },
+  {
+    "name": "Mark Reinhold",
+    "url": "https://twitter.com/mreinhold",
+    "description": "Chief Architect, Java Platform Group, Oracle."
+  },
+  {
+    "name": "Markus Eisele",
+    "url": "https://twitter.com/myfear",
+    "description": "Java EE evangelist, Red Hat."
+  },
+  {
+    "name": "Martijn Verburg",
+    "url": "https://twitter.com/karianna",
+    "description": "London JUG co-leader, speaker, author, Java Champion and much more."
+  },
+  {
+    "name": "Martin Thompson",
+    "url": "https://twitter.com/mjpt777",
+    "description": "Pasty faced performance gangster."
+  },
+  {
+    "name": "Monica Beckwith",
+    "url": "https://twitter.com/mon_beck",
+    "description": "Performance consultant, JavaOne Rock Star."
+  },
+  {
+    "name": "OpenJDK",
+    "url": "https://twitter.com/OpenJDK",
+    "description": "Official OpenJDK account."
+  },
+  {
+    "name": "Peter Lawrey",
+    "url": "https://twitter.com/PeterLawrey",
+    "description": "Peter Lawrey, Java performance expert."
+  },
+  {
+    "name": "Randy Shoup",
+    "url": "https://twitter.com/randyshoup",
+    "description": "Stitch Fix VP Engineering, speaker, JavaOne Rock Star."
+  },
+  {
+    "name": "Reza Rahman",
+    "url": "https://twitter.com/reza_rahman",
+    "description": "Java EE/GlassFish/WebLogic evangelist, author, speaker, open source hacker."
+  },
+  {
+    "name": "Sander Mak",
+    "url": "https://twitter.com/Sander_Mak",
+    "description": "Java Champion, author."
+  },
+  {
+    "name": "Simon Maple",
+    "url": "https://twitter.com/sjmaple",
+    "description": "Java Champion, VirtualJUG founder, LJC leader, RebelLabs author."
+  },
+  {
+    "name": "Spencer Gibb",
+    "url": "https://twitter.com/spencerbgibb",
+    "description": "Software Engineer, Dad, Geek, Co-founder and Lead of Spring Cloud Core @pivotal."
+  },
+  {
+    "name": "Stephen Colebourne",
+    "url": "https://twitter.com/jodastephen",
+    "description": "Java Champion, speaker."
+  },
+  {
+    "name": "Trisha Gee",
+    "url": "https://twitter.com/trisha_gee",
+    "description": "Java Champion and speaker."
+  },
+  {
+    "name": "Venkat Subramaniam",
+    "url": "https://twitter.com/venkat_s",
+    "description": "Author, University of Houston professor, MicroSoft MVP award recipient, JavaOne Rock Star, Java Champion."
+  },
+  {
+    "name": "Vlad Mihalcea",
+    "url": "https://twitter.com/vlad_mihalcea",
+    "description": "Java Champion working on Hypersistence Optimizer, database aficionado, author of High-Performance Java Persistence book."
+  },
+  {
+    "name": "Groundbreakers",
+    "url": "https://apexapps.oracle.com/pls/apex/f?p=119297:3::::::",
+    "description": "Oracle ACEs, Groundbreaker Ambassadors and Java Champions."
+  },
+  
+]

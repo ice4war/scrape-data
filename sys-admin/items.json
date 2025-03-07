@@ -1,0 +1,2082 @@
+[
+  {
+    "name": "Amanda",
+    "url": "http://www.amanda.org/",
+    "description": "Client-server model backup tool."
+  },
+  {
+    "name": "Attic",
+    "url": "https://attic-backup.org",
+    "description": "A deduplicating backup program written in Python."
+  },
+  {
+    "name": "Bacula",
+    "url": "http://www.bacula.org",
+    "description": "Another Client-server model backup tool."
+  },
+  {
+    "name": "Bareos",
+    "url": "http://www.bareos.org",
+    "description": "A fork of Bacula backup tool."
+  },
+  {
+    "name": "Barman",
+    "url": "http://www.pgbarman.org",
+    "description": "Backup and Recovery Manager for disaster recovery of PostgreSQL servers."
+  },
+  {
+    "name": "Backupninja",
+    "url": "https://labs.riseup.net/code/projects/backupninja",
+    "description": "Lightweight, extensible meta-backup system."
+  },
+  {
+    "name": "Backuppc",
+    "url": "http://backuppc.sourceforge.net/",
+    "description": "Client-server model backup tool with file pooling scheme."
+  },
+  {
+    "name": "Brebis",
+    "url": "http://brebisproject.org",
+    "description": "A fully automated backup checker."
+  },
+  {
+    "name": "Bup",
+    "url": "https://github.com/bup/bup",
+    "description": "Incremental backups with rolling checksums, git packfiles, de-duplication, and a FUSE filesystem."
+  },
+  {
+    "name": "Burp",
+    "url": "http://burp.grke.org/",
+    "description": "Network backup and restore program."
+  },
+  {
+    "name": "Duplicati",
+    "url": "http://www.duplicati.com",
+    "description": "Multiple backends, encryption, web-ui and multi-OS backup tool."
+  },
+  {
+    "name": "Duplicity",
+    "url": "http://duplicity.nongnu.org/",
+    "description": "Encrypted bandwidth-efficient backup using the rsync algorithm."
+  },
+  {
+    "name": "FreeFileSync",
+    "url": "http://www.freefilesync.org",
+    "description": "Folder comparison and synchronization tool."
+  },
+  {
+    "name": "Lsyncd",
+    "url": "https://github.com/axkibe/lsyncd",
+    "description": "File Monitor which spawns a process to synchronize the changes (rsync by default)."
+  },
+  {
+    "name": "restic",
+    "url": "https://github.com/restic/restic",
+    "description": "Fast, secure, efficient backup program"
+  },
+  {
+    "name": "Rsnapshot",
+    "url": "http://www.rsnapshot.org/",
+    "description": "Filesystem Snapshotting Utility."
+  },
+  {
+    "name": "SafeKeep",
+    "url": "http://safekeep.sourceforge.net/",
+    "description": "Centralized pull-based backup using rdiff-backup."
+  },
+  {
+    "name": "Snebu – Snapshot backup with global multi-client deduplication and transparent compression.",
+    "url": "http://www.snebu.com/",
+    "description": null
+  },
+  {
+    "name": "UrBackup",
+    "url": "http://www.urbackup.org/",
+    "description": "Another client-server backup system."
+  },
+  {
+    "name": "ZBackup",
+    "url": "http://zbackup.org/",
+    "description": "A versatile deduplicating backup tool."
+  },
+  {
+    "name": "Backup",
+    "url": "https://github.com/meskyanichi/backup",
+    "description": "Provides an elegant DSL in Ruby for performing backups on UNIX-like systems."
+  },
+  {
+    "name": "DREBS",
+    "url": "https://github.com/dojo4/drebs",
+    "description": "AWS EBS backup script that supports strategies."
+  },
+  {
+    "name": "Apache Ant",
+    "url": "https://ant.apache.org/",
+    "description": "Automation build tool, similar to make, written in Java."
+  },
+  {
+    "name": "Apache Maven",
+    "url": "http://maven.apache.org/",
+    "description": "Build automation tool mainly for Java."
+  },
+  {
+    "name": "GNU Make",
+    "url": "http://www.gnu.org/software/make/",
+    "description": "The most popular automation build tool for many purposes."
+  },
+  {
+    "name": "Gradle",
+    "url": "http://gradle.org/",
+    "description": "Another open source build automation system."
+  },
+  {
+    "name": "CloudBot",
+    "url": "https://github.com/CloudBotIRC/CloudBot",
+    "description": "The simple, fast, expandable, open-source Python IRC bot."
+  },
+  {
+    "name": "Eggdrop",
+    "url": "http://www.eggheads.org/",
+    "description": "The world's most popular Open Source IRC bot, designed for flexibility and ease of use."
+  },
+  {
+    "name": "Err",
+    "url": "http://errbot.net/",
+    "description": "A plugin based chatbot designed to be easily deployable, extensible and maintainable."
+  },
+  {
+    "name": "Hubot",
+    "url": "https://hubot.github.com/",
+    "description": "A customizable, life embetterment robot."
+  },
+  {
+    "name": "Lazlo",
+    "url": "https://github.com/djosephsen/lazlo",
+    "description": "A chatops automation framework in Go."
+  },
+  {
+    "name": "Lita",
+    "url": "https://www.lita.io/",
+    "description": "A robot companion for your company's chat room."
+  },
+  {
+    "name": "KeyBase",
+    "url": "https://www.keybase.io/",
+    "description": "Encrypted chat, cloud and git."
+  },
+  {
+    "name": "Clonezilla",
+    "url": "http://clonezilla.org/",
+    "description": "Partition and disk imaging/cloning program."
+  },
+  {
+    "name": "Fog",
+    "url": "http://www.fogproject.org/",
+    "description": "Another computer cloning solution."
+  },
+  {
+    "name": "Redo Backup",
+    "url": "http://redobackup.org/",
+    "description": "Easy Backup, Recovery and Restore."
+  },
+  {
+    "name": "AppScale",
+    "url": "http:/github.com/AppScale/appscale",
+    "description": "Open source cloud software with Google App Engine compatibility."
+  },
+  {
+    "name": "Archipel",
+    "url": "http://archipelproject.org/",
+    "description": "Manage and supervise virtual machines using Libvirt."
+  },
+  {
+    "name": "CloudStack",
+    "url": "http://cloudstack.apache.org/",
+    "description": "Cloud computing software for creating, managing, and deploying infrastructure cloud services."
+  },
+  {
+    "name": "Cobbler",
+    "url": "http://cobbler.github.io",
+    "description": "Cobbler is a Linux installation server that allows for rapid setup of network installation environments."
+  },
+  {
+    "name": "Eucalyptus",
+    "url": "https://www.eucalyptus.com/",
+    "description": "Open source private cloud software with AWS compatibility."
+  },
+  {
+    "name": "Mesos",
+    "url": "http://mesos.apache.org/",
+    "description": "Develop and run resource-efficient distributed systems."
+  },
+  {
+    "name": "OpenNebula",
+    "url": "http://opennebula.org/",
+    "description": "An user-driven cloud management platform for sysadmins and devops."
+  },
+  {
+    "name": "Openshift Origin",
+    "url": "https://www.openshift.org/",
+    "description": "Open source upstream of OpenShift, the next generation application hosting platform developed by Red Hat."
+  },
+  {
+    "name": "OpenStack",
+    "url": "https://www.openstack.org/",
+    "description": "Open source software for building private and public clouds."
+  },
+  {
+    "name": "The Foreman",
+    "url": "http://theforeman.org/",
+    "description": "Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS."
+  },
+  {
+    "name": "Tsuru",
+    "url": "http://www.tsuru.io/",
+    "description": "Tsuru is an extensible and open source Platform as a Service software."
+  },
+  {
+    "name": "Terraform",
+    "url": "https://terraform.io",
+    "description": "Terraform allows you to practice infrastructure as code and is commonly used for AWS/GCE."
+  },
+  {
+    "name": "BOSH",
+    "url": "http://docs.cloudfoundry.org/bosh/",
+    "description": " IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems."
+  },
+  {
+    "name": "Ansible",
+    "url": "http://www.ansible.com",
+    "description": "Contains modules for controlling many types of cloud resources."
+  },
+  {
+    "name": "Cloudify",
+    "url": "http://cloudify.co/",
+    "description": " Open source TOSCA-based cloud orchestration software platform written in Python and YAML."
+  },
+  {
+    "name": "consul",
+    "url": "http://www.consul.io/",
+    "description": "It is a tool for discovering and configuring services in your infrastructure."
+  },
+  {
+    "name": "doozerd",
+    "url": "https://github.com/ha/doozerd",
+    "description": "Doozer is a highly-available, completely consistent store for small amounts of extremely important data."
+  },
+  {
+    "name": "etcd",
+    "url": "https://github.com/coreos/etcd",
+    "description": "A highly-available key value store for shared configuration and service discovery."
+  },
+  {
+    "name": "Juju",
+    "url": "https://juju.ubuntu.com/",
+    "description": "Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles."
+  },
+  {
+    "name": "MCollective",
+    "url": "http://puppetlabs.com/mcollective",
+    "description": "Ruby framework to manage server orchestration, developed by Puppet labs."
+  },
+  {
+    "name": "Overcast",
+    "url": "http://andrewchilds.github.io/overcast/",
+    "description": "Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH."
+  },
+  {
+    "name": "Rundeck",
+    "url": "http://rundeck.org/",
+    "description": "Simple orchestration tool."
+  },
+  {
+    "name": "Salt",
+    "url": "http://www.saltstack.com/",
+    "description": "Fast, scalable and flexible systems management software written in Python/ZeroMQ."
+  },
+  {
+    "name": "serf",
+    "url": "http://www.serfdom.io/",
+    "description": "Serf is a tool for cluster membership."
+  },
+  {
+    "name": "StackStorm",
+    "url": "http://stackstorm.com/",
+    "description": "Event Driven Operations and ChatOps platform for infrastructure management. Written in Python."
+  },
+  {
+    "name": "zookeeper",
+    "url": "http://zookeeper.apache.org/",
+    "description": "ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services."
+  },
+  {
+    "name": "git-annex assistant",
+    "url": "http://git-annex.branchable.com/assistant/",
+    "description": "A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services."
+  },
+  {
+    "name": "nextCloud",
+    "url": "https://nextcloud.com",
+    "description": "Provides access to your files via the web"
+  },
+  {
+    "name": "ownCloud",
+    "url": "https://owncloud.org",
+    "description": "Provides universal access to your files via the web, your computer or your mobile devices."
+  },
+  {
+    "name": "Seafile",
+    "url": "http://seafile.com",
+    "description": "Another Open Source Cloud Storage solution."
+  },
+  {
+    "name": "SparkleShare",
+    "url": "http://sparkleshare.org/",
+    "description": "Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend."
+  },
+  {
+    "name": "Swift",
+    "url": "http://docs.openstack.org/developer/swift/",
+    "description": "A highly available, distributed, eventually consistent object/blob store."
+  },
+  {
+    "name": "Syncthing",
+    "url": "http://syncthing.net/",
+    "description": "Open Source system for private, encrypted and authenticated distribution of data."
+  },
+  {
+    "name": "Gerrit",
+    "url": "https://code.google.com/p/gerrit/",
+    "description": "Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes."
+  },
+  {
+    "name": "Phabricator",
+    "url": "http://phabricator.org/",
+    "description": "Code review tool build by facebook and used by WikiMedia, FB, dropbox etc. Comes with an integrated wiki, bug tracker, VC integration and a CLI tool called arcanist."
+  },
+  {
+    "name": "Review Board",
+    "url": "https://www.reviewboard.org/",
+    "description": "Web-based collaborative code review tool."
+  },
+  {
+    "name": "Citadel/UX",
+    "url": "http://www.citadel.org/",
+    "description": "Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs."
+  },
+  {
+    "name": "EGroupware",
+    "url": "http://www.egroupware.org/",
+    "description": "Groupware software written in PHP."
+  },
+  {
+    "name": "Horde Groupware",
+    "url": "http://www.horde.org/apps/groupware",
+    "description": "PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management."
+  },
+  {
+    "name": "Kolab",
+    "url": "https://www.kolab.org",
+    "description": "Another groupware suite."
+  },
+  {
+    "name": "SOGo",
+    "url": "https://www.sogo.nu/",
+    "description": "Collaborative software server with a focus on simplicity and scalability."
+  },
+  {
+    "name": "Zimbra",
+    "url": "https://www.zimbra.com/community/",
+    "description": "Collaborative software suite, that includes an email server and web client."
+  },
+  {
+    "name": "Clusto",
+    "url": "https://github.com/clusto/clusto",
+    "description": "Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure."
+  },
+  {
+    "name": "Collins",
+    "url": "http://tumblr.github.io/collins",
+    "description": "At Tumblr, it's the infrastructure source of truth and knowledge."
+  },
+  {
+    "name": "i-doit",
+    "url": "http://www.i-doit.org/",
+    "description": "Open Source IT Documentation and CMDB."
+  },
+  {
+    "name": "iTop",
+    "url": "http://www.combodo.com/-Overview-.html",
+    "description": "Complete open source, ITIL, web based service management tool."
+  },
+  {
+    "name": "Ralph",
+    "url": "https://github.com/allegro/ralph",
+    "description": "Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks."
+  },
+  {
+    "name": "Sicekit",
+    "url": "https://github.com/sicekit/sicekit",
+    "description": "The systems & infrastructure encyclopaedia toolkit (based on MediaWiki)."
+  },
+  {
+    "name": "Ansible",
+    "url": "http://www.ansible.com/",
+    "description": " It's written in Python and manages the nodes over SSH."
+  },
+  {
+    "name": "CFEngine",
+    "url": "http://cfengine.com/",
+    "description": "Lightweight agent system. Configuration state is specified via a declarative language."
+  },
+  {
+    "name": "Chef",
+    "url": "http://www.opscode.com/chef/",
+    "description": "It's written in Ruby and Erlang and uses a pure-Ruby DSL."
+  },
+  {
+    "name": "mgmt",
+    "url": "https://github.com/purpleidea/mgmt",
+    "description": "Next generation config management written in Go."
+  },
+  {
+    "name": "Pallet",
+    "url": "http://palletops.com/",
+    "description": "Infrastructure definition, configuration and management via a Clojure DSL."
+  },
+  {
+    "name": "Puppet",
+    "url": "http://puppetlabs.com/",
+    "description": "It's written in Ruby and uses Puppet's declarative language or a Ruby DSL."
+  },
+  {
+    "name": "(R)?ex",
+    "url": "https://www.rexify.org/",
+    "description": "It's written in Perl and use plain Perl, over SSH without agent."
+  },
+  {
+    "name": "Salt",
+    "url": "http://www.saltstack.com/",
+    "description": "It's written in Python."
+  },
+  {
+    "name": "Slaughter",
+    "url": "http://steve.org.uk/Software/slaughter/",
+    "description": "It's written in Perl."
+  },
+  {
+    "name": "Buildbot",
+    "url": "http://buildbot.net/",
+    "description": "Python-based toolkit for continuous integration."
+  },
+  {
+    "name": "Drone",
+    "url": "https://github.com/drone/drone",
+    "description": "Continuous integration server built on Docker and configured using YAML files."
+  },
+  {
+    "name": "GitLab CI",
+    "url": "https://www.gitlab.com/gitlab-ci/",
+    "description": "Based off of ruby. They also provide GitLab, which manages git repositories."
+  },
+  {
+    "name": "Go",
+    "url": "http://www.go.cd/",
+    "description": "Open source continuous delivery server."
+  },
+  {
+    "name": "Jenkins",
+    "url": "http://jenkins-ci.org/",
+    "description": "An extendable open source continuous integration server."
+  },
+  {
+    "name": "Concourse CI",
+    "url": "https://concourse.ci/",
+    "description": "A pipeline-based CI system written in Go."
+  },
+  {
+    "name": "Spinnaker",
+    "url": "http://www.spinnaker.io/",
+    "description": "Open source, multi-cloud continuous delivery platform for releasing software changes."
+  },
+  {
+    "name": "TeamCity",
+    "url": "https://www.jetbrains.com/teamcity/",
+    "description": "Powerful Continuous Integration out of the box"
+  },
+  {
+    "name": "Ajenti",
+    "url": "http://ajenti.org/",
+    "description": "Control panel for Linux and BSD."
+  },
+  {
+    "name": "Cockpit",
+    "url": "http://cockpit-project.org/",
+    "description": "New multi-server web interface for Linux servers written in C."
+  },
+  {
+    "name": "Feathur",
+    "url": "http://feathur.com",
+    "description": "VPS Provisioning and Management Software."
+  },
+  {
+    "name": "Froxlor",
+    "url": "http://www.froxlor.org/",
+    "description": "Easy to use panel for Linux with Nginx and PHP-FPM support."
+  },
+  {
+    "name": "ISPConfig",
+    "url": "http://www.ispconfig.org",
+    "description": "Hosting control panel for Linux."
+  },
+  {
+    "name": "Sentora",
+    "url": "http://sentora.org/",
+    "description": "Control panel for Linux, BSD, and Windows based on ZPanel."
+  },
+  {
+    "name": "VestaCP",
+    "url": "http://www.vestacp.com/",
+    "description": "Hosting panel for Linux but with Nginx."
+  },
+  {
+    "name": "Virtualmin",
+    "url": "http://www.virtualmin.com/",
+    "description": "Control panel for Linux based on webmin."
+  },
+  {
+    "name": "Webmin",
+    "url": "http://www.webmin.com/",
+    "description": "Linux server control panel."
+  },
+  {
+    "name": "ZPanel",
+    "url": "http://www.zpanelcp.com/",
+    "description": "Control panel for Linux, BSD, and Windows."
+  },
+  {
+    "name": "Capistrano",
+    "url": "http://www.capistranorb.com",
+    "description": "Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based)."
+  },
+  {
+    "name": "Fabric",
+    "url": "http://www.fabfile.org/",
+    "description": "Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks."
+  },
+  {
+    "name": "Mina",
+    "url": "http://nadarei.co/mina/",
+    "description": "Really fast deployer and server automation tool (rake based)."
+  },
+  {
+    "name": "Rocketeer",
+    "url": "http://rocketeer.autopergamene.eu/",
+    "description": "PHP task runner and deployment tool."
+  },
+  {
+    "name": "Vlad the Deployer",
+    "url": "http://rubyhitsquad.com/Vlad_the_Deployer.html",
+    "description": "Deployment automation (rake based)."
+  },
+  {
+    "name": "drawthe.net",
+    "url": "http://go.drawthe.net/",
+    "description": "Draws network diagrams dynamically from a text file describing the placement, layout and icons."
+  },
+  {
+    "name": "Ceph",
+    "url": "http://ceph.com/",
+    "description": "Distributed object store and file system."
+  },
+  {
+    "name": "DRBD",
+    "url": "http://www.drbd.org/",
+    "description": "Distributed Replicated Block Device."
+  },
+  {
+    "name": "LeoFS",
+    "url": "http://leo-project.net",
+    "description": "Unstructured object/data storage and a highly available, distributed, eventually consistent storage system."
+  },
+  {
+    "name": "GlusterFS",
+    "url": "http://www.gluster.org/",
+    "description": "Scale-out network-attached storage file system."
+  },
+  {
+    "name": "HDFS",
+    "url": "http://hadoop.apache.org/",
+    "description": "Distributed, scalable, and portable file-system written in Java for the Hadoop framework."
+  },
+  {
+    "name": "Lustre",
+    "url": "http://lustre.opensfs.org/",
+    "description": " A type of parallel distributed file system, generally used for large-scale cluster computing."
+  },
+  {
+    "name": "MooseFS",
+    "url": "http://www.moosefs.org/",
+    "description": "Fault tolerant, network distributed file system."
+  },
+  {
+    "name": "MogileFS",
+    "url": "http://mogilefs.org/",
+    "description": "Application level, network distributed file system."
+  },
+  {
+    "name": "OpenAFS",
+    "url": "http://www.openafs.org/",
+    "description": "Distributed network file system with read-only replicas and multi-OS support."
+  },
+  {
+    "name": "TahoeLAFS",
+    "url": "https://tahoe-lafs.org/trac/tahoe-lafs",
+    "description": "secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system."
+  },
+  {
+    "name": "XtreemFS",
+    "url": "http://www.xtreemfs.org/",
+    "description": "XtreemFS is a fault-tolerant distributed file system for all storage needs."
+  },
+  {
+    "name": "Bind",
+    "url": "https://www.isc.org/downloads/bind/",
+    "description": "The most widely used name server software."
+  },
+  {
+    "name": "djbdns",
+    "url": "http://cr.yp.to/djbdns.html",
+    "description": "A collection of DNS applications, including tinydns."
+  },
+  {
+    "name": "Designate",
+    "url": "https://wiki.openstack.org/wiki/Designate",
+    "description": "DNS REST API that support several DNS servers as its backend."
+  },
+  {
+    "name": "dnsmasq",
+    "url": "http://www.thekelleys.org.uk/dnsmasq/doc.html",
+    "description": "A lightweight service providing DNS, DHCP and TFTP services to small-scale networks."
+  },
+  {
+    "name": "Knot",
+    "url": "https://www.knot-dns.cz/",
+    "description": "High performance authoritative-only DNS server."
+  },
+  {
+    "name": "NSD",
+    "url": "http://www.nlnetlabs.nl/projects/nsd/",
+    "description": "Authoritative only, high performance, simple name server."
+  },
+  {
+    "name": "PowerDNS",
+    "url": "https://www.powerdns.com/",
+    "description": "DNS server with a variety of data storage back-ends and load balancing features."
+  },
+  {
+    "name": "Unbound",
+    "url": "http://unbound.net/",
+    "description": "Validating, recursive, and caching DNS resolver."
+  },
+  {
+    "name": "Yadifa",
+    "url": "http://yadifa.eu/",
+    "description": "Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain."
+  },
+  {
+    "name": "Atom",
+    "url": "https://atom.io/",
+    "description": "A hackable text editor from GitHub."
+  },
+  {
+    "name": "Brackets",
+    "url": "http://brackets.io/",
+    "description": "Open source code editor for web designers and front-end developers."
+  },
+  {
+    "name": "Eclipse",
+    "url": "http://eclipse.org/",
+    "description": "IDE written in Java with an extensible plug-in system."
+  },
+  {
+    "name": "Geany",
+    "url": "http://www.geany.org/",
+    "description": "GTK2 text editor."
+  },
+  {
+    "name": "GNU Emacs",
+    "url": "http://www.gnu.org/software/emacs/",
+    "description": "An extensible, customizable text editor-and more."
+  },
+  {
+    "name": "Haroopad",
+    "url": "http://pad.haroopress.com/",
+    "description": "Markdown editor with live preview."
+  },
+  {
+    "name": "ICEcoder",
+    "url": "http://icecoder.net",
+    "description": "Code editor awesomeness, built with common web languages."
+  },
+  {
+    "name": "IntellijIDEA",
+    "url": "https://github.com/JetBrains/intellij-community",
+    "description": "Capable and ergonomic IDE, written in Java, It has a lot of plug-ins."
+  },
+  {
+    "name": "jotgit",
+    "url": "https://github.com/jdleesmiller/jotgit",
+    "description": "Git-backed real-time collaborative code editing."
+  },
+  {
+    "name": "Light Table",
+    "url": "http://www.lighttable.com/",
+    "description": "The next generation code editor."
+  },
+  {
+    "name": "Lime",
+    "url": "http://limetext.org/",
+    "description": "Aims to provide an open source solution to Sublime Text"
+  },
+  {
+    "name": "SciTE",
+    "url": "http://www.scintilla.org/SciTE.html",
+    "description": "A SCIntilla based Text Editor."
+  },
+  {
+    "name": "TextMate",
+    "url": "https://github.com/textmate/textmate/",
+    "description": "A graphical text editor for OS X."
+  },
+  {
+    "name": "Vim",
+    "url": "http://www.vim.org",
+    "description": "A highly configurable text editor built to enable efficient editing."
+  },
+  {
+    "name": "Nano",
+    "url": "http://https://www.nano-editor.org/",
+    "description": "A popular text editor, by default comes with most Linux distributions."
+  },
+  {
+    "name": "Visual Studio Code",
+    "url": "https://code.visualstudio.com/",
+    "description": "Fast, hackable, multi-platform code editor from Microsoft."
+  },
+  {
+    "name": "GLPI",
+    "url": "http://www.glpi-project.org/spip.php?lang=en",
+    "description": "Information Resource-Manager with an additional Administration Interface."
+  },
+  {
+    "name": "OCS Inventory NG",
+    "url": "http://www.ocsinventory-ng.org/en/",
+    "description": "Enables users to inventory their IT assets."
+  },
+  {
+    "name": "Netbox",
+    "url": "https://github.com/digitalocean/netbox",
+    "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool."
+  },
+  {
+    "name": "RackTables",
+    "url": "http://racktables.org/",
+    "description": "Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration."
+  },
+  {
+    "name": "Ralph",
+    "url": "https://github.com/allegro/ralph",
+    "description": "Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks."
+  },
+  {
+    "name": "Snipe IT",
+    "url": "http://snipeitapp.com/",
+    "description": "Asset & license management software."
+  },
+  {
+    "name": "OpenDCIM",
+    "url": "http://www.opendcim.org/",
+    "description": "A web based Data Center Infrastructure Management application."
+  },
+  {
+    "name": "389 Directory Server",
+    "url": "http://port389.org",
+    "description": "Developed by Red Hat."
+  },
+  {
+    "name": "Apache Directory Server",
+    "url": "http://directory.apache.org/",
+    "description": "Apache Software Foundation project written in Java."
+  },
+  {
+    "name": "Fusion Directory",
+    "url": "http://www.fusiondirectory.org",
+    "description": "Improve the Management of the services and the company directory based on OpenLDAP."
+  },
+  {
+    "name": "OpenDJ",
+    "url": "http://opendj.forgerock.org/",
+    "description": "Fork of OpenDS."
+  },
+  {
+    "name": "OpenDS",
+    "url": "https://opends.java.net/",
+    "description": "Another directory server written in Java."
+  },
+  {
+    "name": "OpenLDAP",
+    "url": "http://openldap.org/",
+    "description": "Developed by the OpenLDAP Project."
+  },
+  {
+    "name": "Apache Directory Studio",
+    "url": "https://directory.apache.org/studio/",
+    "description": "The Eclipse-based LDAP browser and directory client"
+  },
+  {
+    "name": "Echofish",
+    "url": "http://www.echothrust.com/projects/echofish",
+    "description": "A web based real-time event log aggregation, analysis, monitoring and management system."
+  },
+  {
+    "name": "Elasticsearch",
+    "url": "http://www.elasticsearch.org/",
+    "description": "A Lucene Based Document store mainly used for log indexing, storage and analysis."
+  },
+  {
+    "name": "Fluentd",
+    "url": "http://www.fluentd.org/",
+    "description": "Log Collector and Shipper."
+  },
+  {
+    "name": "Flume",
+    "url": "https://flume.apache.org/",
+    "description": "Distributed log collection and aggregation system."
+  },
+  {
+    "name": "Graylog2",
+    "url": "http://graylog2.org/",
+    "description": "Pluggable Log and Event Analysis Server with Alerting options."
+  },
+  {
+    "name": "Heka",
+    "url": "http://hekad.readthedocs.org/en/latest/",
+    "description": "Stream processing system which may be used for log aggregation."
+  },
+  {
+    "name": "Kibana",
+    "url": "http://www.elasticsearch.org/overview/kibana/",
+    "description": "Visualize logs and time-stamped data."
+  },
+  {
+    "name": "Logstash",
+    "url": "http://logstash.net/",
+    "description": "Tool for managing events and logs."
+  },
+  {
+    "name": "Octopussy",
+    "url": "http://www.octopussy.pm",
+    "description": "Log Management Solution (Visualize / Alert / Report)."
+  },
+  {
+    "name": "Courier IMAP/POP3",
+    "url": "http://www.courier-mta.org/imap/",
+    "description": "Fast, scalable, enterprise IMAP and POP3 server."
+  },
+  {
+    "name": "Cyrus IMAP/POP3",
+    "url": "http://cyrusimap.org/",
+    "description": "Intended to be run on sealed servers, where normal users are not permitted to log in."
+  },
+  {
+    "name": "Dovecot",
+    "url": "http://www.dovecot.org/",
+    "description": "IMAP and POP3 server written primarily with security in mind."
+  },
+  {
+    "name": "Qpopper",
+    "url": "http://www.eudora.com/products/unsupported/qpopper/",
+    "description": "One of the oldest and most popular server implementations of POP3."
+  },
+  {
+    "name": "Exim",
+    "url": "http://www.exim.org/",
+    "description": "Message transfer agent (MTA) developed at the University of Cambridge."
+  },
+  {
+    "name": "Haraka",
+    "url": "http://haraka.github.io/",
+    "description": "A high-performance, pluginable SMTP server written in JavaScript."
+  },
+  {
+    "name": "MailCatcher",
+    "url": "http://mailcatcher.me/",
+    "description": "Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development."
+  },
+  {
+    "name": "Maildrop",
+    "url": "https://github.com/m242/maildrop",
+    "description": "Open Source disposable email SMTP server, also useful for development."
+  },
+  {
+    "name": "OpenSMTPD",
+    "url": "https://opensmtpd.org/",
+    "description": "Secure SMTP server implementation from the OpenBSD project."
+  },
+  {
+    "name": "Postfix",
+    "url": "http://www.postfix.org/",
+    "description": "Fast, easy to administer, and secure Sendmail replacement."
+  },
+  {
+    "name": "Qmail",
+    "url": "http://cr.yp.to/qmail.html",
+    "description": "Secure Sendmail replacement."
+  },
+  {
+    "name": "Sendmail",
+    "url": "http://www.sendmail.com/sm/open_source/",
+    "description": "Message transfer agent (MTA)."
+  },
+  {
+    "name": "Mail-in-a-Box",
+    "url": "https://mailinabox.email/",
+    "description": "Take back control of your email with this easy-to-deploy mail server in a box."
+  },
+  {
+    "name": "iRedMail",
+    "url": "http://www.iredmail.org/",
+    "description": "Full-featured mail server solution based on Postfix and Dovecot."
+  },
+  {
+    "name": "ejabberd",
+    "url": "http://www.ejabberd.im/",
+    "description": "XMPP instant messaging server written in Erlang/OTP."
+  },
+  {
+    "name": "Metronome IM",
+    "url": "http://www.lightwitch.org/metronome",
+    "description": "Fork of Prosody IM."
+  },
+  {
+    "name": "MongooseIM",
+    "url": "https://www.erlang-solutions.com/products/mongooseim.html",
+    "description": "Fullstack real-time mobile messaging platform (XMPP+REST) in Erlang"
+  },
+  {
+    "name": "Openfire",
+    "url": "http://www.igniterealtime.org/projects/openfire/",
+    "description": "Real time collaboration (RTC) server."
+  },
+  {
+    "name": "Prosody IM",
+    "url": "http://prosody.im/",
+    "description": "XMPP server written in Lua."
+  },
+  {
+    "name": "Tigase",
+    "url": "https://projects.tigase.org/projects/tigase-server",
+    "description": "XMPP server implementation in Java."
+  },
+  {
+    "name": "Candy",
+    "url": "http://candy-chat.github.io/candy/",
+    "description": "Multi user XMPP client written in Javascript."
+  },
+  {
+    "name": "Kaiwa",
+    "url": "http://getkaiwa.com/",
+    "description": "Web based chat client in the style of common paid alternatives."
+  },
+  {
+    "name": "Lets-Chat",
+    "url": "http://sdelements.github.io/lets-chat/",
+    "description": "A self hosted chat suite written in Node."
+  },
+  {
+    "name": "Alerta",
+    "url": "https://github.com/guardian/alerta",
+    "description": "Distributed, scaleable and flexible monitoring system."
+  },
+  {
+    "name": "Canopsis",
+    "url": "http://www.canopsis.org",
+    "description": "Opensource Hypervision and Data Aggregation Software"
+  },
+  {
+    "name": "Cacti",
+    "url": "http://www.cacti.net",
+    "description": "Web-based network monitoring and graphing tool."
+  },
+  {
+    "name": "Cabot",
+    "url": "http://cabotapp.com/",
+    "description": "Monitoring and alerts, similar to PagerDuty."
+  },
+  {
+    "name": "Centreon",
+    "url": "http://www.centreon.com",
+    "description": "IT infrastructure and application monitoring for service performance."
+  },
+  {
+    "name": "check_mk",
+    "url": "http://mathias-kettner.com/check_mk.html",
+    "description": "Collection of extensions for Nagios."
+  },
+  {
+    "name": "Flapjack",
+    "url": "http://flapjack.io/",
+    "description": "Monitoring notification routing & event processing system."
+  },
+  {
+    "name": "Icinga",
+    "url": "https://www.icinga.org/",
+    "description": "Fork of Nagios."
+  },
+  {
+    "name": "LibreNMS",
+    "url": "https://github.com/librenms/librenms/",
+    "description": "fork of Observium."
+  },
+  {
+    "name": "Monit",
+    "url": "http://mmonit.com/monit/#home",
+    "description": "Small Open Source utility for managing and monitoring Unix systems."
+  },
+  {
+    "name": "Munin",
+    "url": "http://munin-monitoring.org/",
+    "description": "Networked resource monitoring tool."
+  },
+  {
+    "name": "Naemon",
+    "url": "http://www.naemon.org/",
+    "description": "Network monitoring tool based on the Nagios 4 core with performance enhancements and new features."
+  },
+  {
+    "name": "Nagios",
+    "url": "http://www.nagios.org/",
+    "description": "Computer system, network and infrastructure monitoring software application."
+  },
+  {
+    "name": "Node-Bell",
+    "url": "https://github.com/eleme/node-bell",
+    "description": "Real-time anomalies detection for periodic time series, metrics monitor."
+  },
+  {
+    "name": "Observium",
+    "url": "http://www.observium.org/",
+    "description": "SNMP monitoring for servers and networking devices. Runs on linux."
+  },
+  {
+    "name": "Opsview",
+    "url": "http://www.opsview.com/solutions/core",
+    "description": "Based on Nagios 4, Opsview Core is ideal for small IT and test environments."
+  },
+  {
+    "name": "Riemann",
+    "url": "http://riemann.io/",
+    "description": "Flexible and fast events processor allowing complex events/metrics analysis."
+  },
+  {
+    "name": "Sensu",
+    "url": "http://sensuapp.org/",
+    "description": "Open source monitoring framework."
+  },
+  {
+    "name": "Sentry",
+    "url": "https://getsentry.com/",
+    "description": "Application monitoring, event logging and aggregation."
+  },
+  {
+    "name": "Serverstats",
+    "url": "https://sourceforge.net/projects/serverstats.berlios/",
+    "description": "A simple tool for creating graphs using rrdtool. (source on github)"
+  },
+  {
+    "name": "Seyren",
+    "url": "https://github.com/scobal/seyren",
+    "description": "An alerting dashboard for Graphite."
+  },
+  {
+    "name": "Shinken",
+    "url": "http://www.shinken-monitoring.org/",
+    "description": "Another monitoring framework."
+  },
+  {
+    "name": "Xymon",
+    "url": "http://www.xymon.com/",
+    "description": "Network monitoring inspired by Big Brother."
+  },
+  {
+    "name": "Zabbix",
+    "url": "http://www.zabbix.com/",
+    "description": "Enterprise-class software for monitoring of networks and applications."
+  },
+  {
+    "name": "Zenoss",
+    "url": "http://community.zenoss.org",
+    "description": "Application, server, and network management platform based on Zope."
+  },
+  {
+    "name": "Adagios",
+    "url": "http://adagios.org/",
+    "description": "Web based Nagios configuration interface."
+  },
+  {
+    "name": "Dash",
+    "url": "https://github.com/afaqurk/linux-dash",
+    "description": "A low-overhead monitoring web dashboard for a GNU/Linux machine."
+  },
+  {
+    "name": "Thruk",
+    "url": "http://www.thruk.org/",
+    "description": "Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken."
+  },
+  {
+    "name": "Uchiwa",
+    "url": "https://uchiwa.io",
+    "description": "Simple dashboard for the Sensu monitoring framework."
+  },
+  {
+    "name": "OMD",
+    "url": "http://omdistro.org/",
+    "description": "The Open Monitoring Distribution."
+  },
+  {
+    "name": "Collectd",
+    "url": "http://collectd.org/",
+    "description": "System statistic collection daemon."
+  },
+  {
+    "name": "Collectl",
+    "url": "http://collectl.sourceforge.net/",
+    "description": "High precision system performance metrics collecting tool."
+  },
+  {
+    "name": "dashing",
+    "url": "http://dashing.io/",
+    "description": "No Longer Maintained"
+  },
+  {
+    "name": "Smashing",
+    "url": "https://github.com/Smashing/smashing",
+    "description": "Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms. Fork of Dashing."
+  },
+  {
+    "name": "Diamond",
+    "url": "https://github.com/BrightcoveOS/Diamond",
+    "description": "Python based statistic collection daemon."
+  },
+  {
+    "name": "Facette",
+    "url": "http://facette.io",
+    "description": "Time series data visualization and graphing software written in Go."
+  },
+  {
+    "name": "Freeboard",
+    "url": "https://github.com/Freeboard/freeboard",
+    "description": "A damn-sexy front-end real-time dashboard. Transforms raw JSON into delicious UI."
+  },
+  {
+    "name": "Ganglia",
+    "url": "http://ganglia.sourceforge.net/",
+    "description": "High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process."
+  },
+  {
+    "name": "Grafana",
+    "url": "http://grafana.org/",
+    "description": "A Graphite & InfluxDB Dashboard and Graph Editor."
+  },
+  {
+    "name": "Graphite",
+    "url": "http://graphite.readthedocs.org/en/latest/",
+    "description": "Open source scalable graphing server."
+  },
+  {
+    "name": "InfluxDB",
+    "url": "http://influxdb.com/",
+    "description": "Open source distributed time series database with no external dependencies."
+  },
+  {
+    "name": "KairosDB",
+    "url": "https://code.google.com/p/kairosdb/",
+    "description": "Fast distributed scalable time series database, fork of OpenTSDB 1.x."
+  },
+  {
+    "name": "NetData",
+    "url": "http://my-netdata.io",
+    "description": "Distributed real-time performance and health monitoring."
+  },
+  {
+    "name": "OpenTSDB",
+    "url": "http://opentsdb.net/",
+    "description": "Store and server massive amounts of time series data without losing granularity."
+  },
+  {
+    "name": "Packetbeat",
+    "url": "http://packetbeat.com/",
+    "description": "Captures network traffic and displays it in a custom Kibana dashboard for easy viewing."
+  },
+  {
+    "name": "Prometheus",
+    "url": "http://prometheus.io/",
+    "description": "Service monitoring system and time series database."
+  },
+  {
+    "name": "RRDtool",
+    "url": "http://oss.oetiker.ch/rrdtool/",
+    "description": "Open source industry standard, high performance data logging and graphing system for time series data."
+  },
+  {
+    "name": "Statsd",
+    "url": "https://github.com/etsy/statsd/",
+    "description": "Application statistic listener."
+  },
+  {
+    "name": "GestióIP",
+    "url": "http://www.gestioip.net/",
+    "description": "An automated web based IPv4/IPv6 IP Address Management tool."
+  },
+  {
+    "name": "NOC Project",
+    "url": "http://nocproject.org/",
+    "description": "Scalable, high-performance and open-source OSS system for ISP, service and content providers."
+  },
+  {
+    "name": "Netbox",
+    "url": "https://github.com/digitalocean/netbox",
+    "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool."
+  },
+  {
+    "name": "Oxidized",
+    "url": "https://github.com/ytti/oxidized",
+    "description": "A modern take on network device configuration monitoring with web interface and GIT storage."
+  },
+  {
+    "name": "phpIPAM",
+    "url": "http://phpipam.net/",
+    "description": "Open source IP address management with PowerDNS integration."
+  },
+  {
+    "name": "RANCID",
+    "url": "http://www.shrubbery.net/rancid/",
+    "description": "Monitors network device's configuration and maintain history of changes."
+  },
+  {
+    "name": "rConfig",
+    "url": "http://www.rconfig.com/",
+    "description": "Another network device configuration management tool."
+  },
+  {
+    "name": "trigger",
+    "url": "https://github.com/trigger/trigger",
+    "description": "Robust network automation toolkit written in Python."
+  },
+  {
+    "name": "DadaMail",
+    "url": "http://dadamailproject.com/",
+    "description": "Mailing List Manager, written in Perl."
+  },
+  {
+    "name": "phpList",
+    "url": "http://www.phplist.com/",
+    "description": "Newsletter manager written in PHP."
+  },
+  {
+    "name": "Apache HBase",
+    "url": "http://hbase.apache.org/",
+    "description": "Hadoop database, a distributed, big data store."
+  },
+  {
+    "name": "Cassandra",
+    "url": "http://cassandra.apache.org/",
+    "description": "Distributed DBMS designed to handle large amounts of data across many servers."
+  },
+  {
+    "name": "Hypertable",
+    "url": "http://hypertable.org/",
+    "description": "C++ based BigTable-like DBMS, communicates through Thrift and runs either as stand-alone or on distributed FS such as Hadoop."
+  },
+  {
+    "name": "CouchDB",
+    "url": "http://couchdb.apache.org/",
+    "description": "Ease of use, with multi-master replication document-oriented database system."
+  },
+  {
+    "name": "ElasticSearch",
+    "url": "http://www.elasticsearch.org/",
+    "description": "Java based database, popular with log aggregation, and email archiving projects."
+  },
+  {
+    "name": "MongoDB",
+    "url": "http://www.mongodb.org/",
+    "description": "Another document-oriented database system."
+  },
+  {
+    "name": "RavenDB",
+    "url": "http://ravendb.net/",
+    "description": "Document based database with ACID/Transactional features."
+  },
+  {
+    "name": "RethinkDB",
+    "url": "http://www.rethinkdb.com/",
+    "description": "Open source distributed document store database, focuses on JSON."
+  },
+  {
+    "name": "FlockDB",
+    "url": "https://github.com/twitter/flockdb",
+    "description": "Twitter's distributed, fault-tolerant graph database."
+  },
+  {
+    "name": "Neo4j",
+    "url": "http://www.neo4j.org/",
+    "description": "Open source graph database."
+  },
+  {
+    "name": "Couchbase",
+    "url": "http://www.couchbase.com/",
+    "description": "In-memory, replicated, peristent key/value datastore."
+  },
+  {
+    "name": "LevelDB",
+    "url": "https://github.com/google/leveldb",
+    "description": "Google's high performance key/value database."
+  },
+  {
+    "name": "Redis",
+    "url": "http://redis.io/",
+    "description": "Networked, in-memory, key-value data store with optional durability."
+  },
+  {
+    "name": "Riak",
+    "url": "http://basho.com/riak/",
+    "description": "Another fault-tolerant key-value NoSQL database."
+  },
+  {
+    "name": "fpm",
+    "url": "https://github.com/jordansissel/fpm",
+    "description": "Versatile multi format package creator."
+  },
+  {
+    "name": "omnibus-ruby",
+    "url": "https://github.com/opscode/omnibus-ruby",
+    "description": "Full stack, cross distro packaging software (Ruby)."
+  },
+  {
+    "name": "packman",
+    "url": "http://packman.readthedocs.org",
+    "description": "Full stack, cross distro packaging software (Python)."
+  },
+  {
+    "name": "tito",
+    "url": "https://github.com/dgoodwin/tito",
+    "description": "Builds RPMs for git-based projects."
+  },
+  {
+    "name": "ActiveMQ",
+    "url": "http://activemq.apache.org/",
+    "description": "An open source message broker written in Java together with a full JMS client."
+  },
+  {
+    "name": "BeanstalkD",
+    "url": "http://kr.github.io/beanstalkd/",
+    "description": "A simple, fast work queue."
+  },
+  {
+    "name": "Gearman",
+    "url": "http://gearman.org/",
+    "description": "Fast multi-language queuing/job processing platform."
+  },
+  {
+    "name": "Kafka",
+    "url": "http://kafka.apache.org/",
+    "description": "A high-throughput distributed messaging system."
+  },
+  {
+    "name": "NSQ",
+    "url": "http://nsq.io/",
+    "description": "A realtime distributed messaging platform."
+  },
+  {
+    "name": "RabbitMQ",
+    "url": "http://www.rabbitmq.com/",
+    "description": "Robust, fully featured, cross distro queuing system."
+  },
+  {
+    "name": "ZeroMQ",
+    "url": "http://zeromq.org/",
+    "description": " High-performance asynchronous messaging library."
+  },
+  {
+    "name": "Firebird",
+    "url": "http://www.firebirdsql.org/",
+    "description": "True universal open source database."
+  },
+  {
+    "name": "Galera",
+    "url": "http://galeracluster.com/",
+    "description": "Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth."
+  },
+  {
+    "name": "MariaDB",
+    "url": "https://mariadb.org/",
+    "description": "Community-developed fork of the MySQL."
+  },
+  {
+    "name": "MySQL",
+    "url": "http://dev.mysql.com/",
+    "description": "Most popular RDBMS server."
+  },
+  {
+    "name": "Percona Server",
+    "url": "http://www.percona.com/software",
+    "description": "Enhanced, drop-in MySQL replacement."
+  },
+  {
+    "name": "PostgreSQL",
+    "url": "http://www.postgresql.org/",
+    "description": "Object-relational database management system (ORDBMS)."
+  },
+  {
+    "name": "PostgreSQL-XL",
+    "url": "http://www.postgres-xl.org/",
+    "description": "Scalable Open Source PostgreSQL-based database cluster."
+  },
+  {
+    "name": "SQLite",
+    "url": "http://sqlite.org/",
+    "description": "Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS."
+  },
+  {
+    "name": "Blackbox",
+    "url": "https://github.com/StackExchange/blackbox",
+    "description": "Safely store secrets in Git/Mercurial. Provides tooling to automatically encrypt secrets like passwords."
+  },
+  {
+    "name": "Denyhosts",
+    "url": "http://denyhosts.sourceforge.net/",
+    "description": "Thwart SSH dictionary based attacks and brute force attacks."
+  },
+  {
+    "name": "Fail2Ban",
+    "url": "http://www.fail2ban.org/wiki/index.php/Main_Page",
+    "description": "Scans log files and takes action on IPs that show malicious behavior."
+  },
+  {
+    "name": "fwknop",
+    "url": "https://www.cipherdyne.org/fwknop/",
+    "description": "Protects ports via Single Packet Authorization in your firewall."
+  },
+  {
+    "name": "Glastopf",
+    "url": "http://glastopf.org/",
+    "description": "A low-interaction web application honeypot to emulate vulnerabilities and gather attack data."
+  },
+  {
+    "name": "Kippo",
+    "url": "https://github.com/desaster/kippo",
+    "description": "A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox."
+  },
+  {
+    "name": "OSSEC",
+    "url": "http://ossec.net",
+    "description": "OSSEC is a HIDS that performs log analysis, FIM, rootkit detection, and much more."
+  },
+  {
+    "name": "OSQuery",
+    "url": "https://osquery.io/",
+    "description": "Query your servers status and info using a SQL like interface."
+  },
+  {
+    "name": "pfSense",
+    "url": "https://www.pfsense.org/",
+    "description": "Firewall and Router FreeBSD distribution."
+  },
+  {
+    "name": "Snort",
+    "url": "https://www.snort.org/",
+    "description": "Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS) created by Martin Roesch in 1998."
+  },
+  {
+    "name": "SpamAssassin",
+    "url": "https://spamassassin.apache.org/",
+    "description": "A powerful and popular email spam filter employing a variety of detection technique."
+  },
+  {
+    "name": "BounCA",
+    "url": "https://bounca.org/",
+    "description": "BounCA is a personal SSL / Certificate Authority Key management tool. Create self-signed SSL certificates via your browser. (Source Code) Apache Python"
+  },
+  {
+    "name": "Consul",
+    "url": "http://www.consul.io/",
+    "description": "Consul is a tool for service discovery, monitoring and configuration."
+  },
+  {
+    "name": "Doozerd",
+    "url": "https://github.com/ha/doozerd",
+    "description": "Doozer is a highly-available, completely consistent store for small amounts of extremely important data."
+  },
+  {
+    "name": "ZooKeeper",
+    "url": "http://zookeeper.apache.org/",
+    "description": "ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services."
+  },
+  {
+    "name": "Bitnami",
+    "url": "https://bitnami.com/",
+    "description": "Produces open source installers or software packages for web applications and development stacks as well as virtual appliances."
+  },
+  {
+    "name": "Docker",
+    "url": "http://www.docker.com/",
+    "description": "Open platform for developers and sysadmins to build, ship, and run distributed applications."
+  },
+  {
+    "name": "LXC",
+    "url": "https://linuxcontainers.org/lxc/",
+    "description": " Userspace interface for the Linux kernel containment features."
+  },
+  {
+    "name": "LXD",
+    "url": "https://linuxcontainers.org/lxd/",
+    "description": "LXD is a container \"hypervisor\"."
+  },
+  {
+    "name": "OpenVZ",
+    "url": "http://openvz.org",
+    "description": "Container-based virtualization for Linux."
+  },
+  {
+    "name": "Docker Compose",
+    "url": "https://docs.docker.com/compose/",
+    "description": "Fast, isolated development environments using Docker."
+  },
+  {
+    "name": "Singularity",
+    "url": "http://singularity.lbl.gov/",
+    "description": "Flexible containers without root."
+  },
+  {
+    "name": "Advanced SSH config",
+    "url": "https://pypi.python.org/pypi/advanced-ssh-config/",
+    "description": "Enhances ssh_config file capabilities, completely transparent."
+  },
+  {
+    "name": "autossh",
+    "url": "http://www.harding.motd.ca/autossh/",
+    "description": "Automatically respawn ssh session after network interruption."
+  },
+  {
+    "name": "Cluster SSH",
+    "url": "http://sourceforge.net/projects/clusterssh/",
+    "description": "Controls a number of xterm windows via a single graphical console."
+  },
+  {
+    "name": "DSH",
+    "url": "http://www.netfort.gr.jp/~dancer/software/dsh.html.en",
+    "description": "Dancer's shell / distributed shell"
+  },
+  {
+    "name": "Mosh",
+    "url": "http://mosh.mit.edu/",
+    "description": "The mobile shell."
+  },
+  {
+    "name": "parallel-ssh",
+    "url": "http://code.google.com/p/parallel-ssh/",
+    "description": "Provides parallel versions of OpenSSH and related tools."
+  },
+  {
+    "name": "pdsh",
+    "url": "https://code.google.com/p/pdsh/",
+    "description": "Pdsh is a high-performance, parallel remote shell utility."
+  },
+  {
+    "name": "SSH Power Tool",
+    "url": "http://code.google.com/p/sshpt/",
+    "description": "Execute commands and upload files to many servers simultaneously without using pre-shared keys."
+  },
+  {
+    "name": "sshrc",
+    "url": "https://github.com/Russell91/sshrc",
+    "description": "sources ~/.sshrc on your local computer after logging in remotely."
+  },
+  {
+    "name": "stormssh",
+    "url": "http://stormssh.readthedocs.org",
+    "description": "A command line tool to manage SSH connections."
+  },
+  {
+    "name": "Analog",
+    "url": "http://www.web42.com/analog/",
+    "description": "Logfile Analyser."
+  },
+  {
+    "name": "AWStats",
+    "url": "http://www.awstats.org/",
+    "description": "Generates web, streaming, ftp or mail server statistics graphically."
+  },
+  {
+    "name": "GoAccess",
+    "url": "http://goaccess.io/",
+    "description": "Real-time web log analyzer and interactive viewer that runs in a terminal."
+  },
+  {
+    "name": "Open Web Analytics",
+    "url": "http://www.openwebanalytics.com/",
+    "description": "Add web analytics to websites using JS, PHP or REST APIs."
+  },
+  {
+    "name": "Piwik",
+    "url": "http://piwik.org/",
+    "description": "Web analytics application."
+  },
+  {
+    "name": "Webalizer",
+    "url": "http://www.webalizer.org/",
+    "description": "Fast, free web server log file analysis program."
+  },
+  {
+    "name": "Cachet",
+    "url": "https://cachethq.io",
+    "description": "An open source status page system written in PHP."
+  },
+  {
+    "name": "Bugzilla",
+    "url": "http://www.bugzilla.org/",
+    "description": "General-purpose bugtracker and testing tool originally developed and used by the Mozilla project."
+  },
+  {
+    "name": "Cerb",
+    "url": "http://www.cerberusweb.com/",
+    "description": "Group-based e-mail management project."
+  },
+  {
+    "name": "Flyspray",
+    "url": "http://flyspray.org",
+    "description": "Web-based bug tracking system written in PHP."
+  },
+  {
+    "name": "MantisBT",
+    "url": "http://www.mantisbt.org/",
+    "description": "Web-based bug tracking system."
+  },
+  {
+    "name": "osTicket",
+    "url": "http://osticket.com/",
+    "description": "Simple support ticket system."
+  },
+  {
+    "name": "OTRS",
+    "url": "http://www.otrs.com/",
+    "description": "Trouble ticket system for assigning tickets to incoming queries and tracking further communications."
+  },
+  {
+    "name": "Redmine",
+    "url": "http://www.redmine.org/",
+    "description": "Open source project management/ticketing web application written in Ruby."
+  },
+  {
+    "name": "Request Tracker",
+    "url": "http://www.bestpractical.com/rt/",
+    "description": "Ticket-tracking system written in Perl."
+  },
+  {
+    "name": "TheBugGenie",
+    "url": "http://www.thebuggenie.com",
+    "description": "Ticket system with extensive user rights system."
+  },
+  {
+    "name": "mitmproxy",
+    "url": "http://mitmproxy.org/",
+    "description": "A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems."
+  },
+  {
+    "name": "Sysdig",
+    "url": "http://www.sysdig.org/",
+    "description": "Capture system state and activity from a running Linux instance, then save, filter and analyze."
+  },
+  {
+    "name": "Wireshark",
+    "url": "http://www.wireshark.org/",
+    "description": "The world's foremost network protocol analyzer."
+  },
+  {
+    "name": "Trinity Rescue Kit",
+    "url": "http://trinityhome.org",
+    "description": "Linux Live CD for general computer troubleshooting."
+  },
+  {
+    "name": "ChiliProject",
+    "url": "https://www.chiliproject.org",
+    "description": "Fork of Redmine."
+  },
+  {
+    "name": "GitBucket Clone of GitHub written in Scala; single jar install.",
+    "url": "https://github.com/takezoe/gitbucket",
+    "description": null
+  },
+  {
+    "name": "GitLab",
+    "url": "https://www.gitlab.com/",
+    "description": "Clone of GitHub written in Ruby."
+  },
+  {
+    "name": "Gogs",
+    "url": "http://gogs.io/",
+    "description": "Self-hosted Git service written in Go."
+  },
+  {
+    "name": "OpenProject",
+    "url": "https://www.openproject.org",
+    "description": "Project collaboration with open source."
+  },
+  {
+    "name": "Phabricator Written in PHP.",
+    "url": "http://phabricator.org/",
+    "description": null
+  },
+  {
+    "name": "Redmine",
+    "url": "http://www.redmine.org/",
+    "description": "Written in ruby on rails."
+  },
+  {
+    "name": "Taiga",
+    "url": "https://taiga.io/",
+    "description": "Agile, Free, Open Source Project Management Tool based on the Kanban and Scrum methods."
+  },
+  {
+    "name": "The Bug Genie",
+    "url": "http://www.thebuggenie.com/",
+    "description": "Written in PHP."
+  },
+  {
+    "name": "Trac",
+    "url": "http://trac.edgewall.org/",
+    "description": "Written in python."
+  },
+  {
+    "name": "Fossil",
+    "url": "http://www.fossil-scm.org/",
+    "description": "Distributed version control with built-in wiki and bug tracking."
+  },
+  {
+    "name": "Git",
+    "url": "http://git-scm.com/",
+    "description": "Distributed revision control and source code management (SCM) with an emphasis on speed."
+  },
+  {
+    "name": "GNU Bazaar",
+    "url": "http://bazaar.canonical.com/",
+    "description": "Distributed revision control system sponsored by Canonical."
+  },
+  {
+    "name": "Mercurial",
+    "url": "http://mercurial.selenic.com/",
+    "description": "Another distributed revision control."
+  },
+  {
+    "name": "Subversion",
+    "url": "http://subversion.apache.org/",
+    "description": "Client-server revision control system."
+  },
+  {
+    "name": "Archipel",
+    "url": "http://archipelproject.org/",
+    "description": "XMPP based virtualization management platform."
+  },
+  {
+    "name": "Ganeti",
+    "url": "https://code.google.com/p/ganeti/",
+    "description": "Cluster virtual server management software tool built on top of KVM and Xen."
+  },
+  {
+    "name": "KVM",
+    "url": "http://www.linux-kvm.org",
+    "description": "Linux kernel virtualization infrastructure."
+  },
+  {
+    "name": "OpenNebula",
+    "url": "http://opennebula.org/",
+    "description": "Flexible enterprise cloud made simple."
+  },
+  {
+    "name": "oVirt",
+    "url": "http://www.ovirt.org/",
+    "description": "Manages virtual machines, storage and virtual networks."
+  },
+  {
+    "name": "Packer",
+    "url": "http://www.packer.io/",
+    "description": "A tool for creating identical machine images for multiple platforms from a single source configuration."
+  },
+  {
+    "name": "Proxmox VE",
+    "url": "https://www.proxmox.com/proxmox-ve",
+    "description": "Complete open source virtualization management solution."
+  },
+  {
+    "name": "QEMU",
+    "url": "http://www.qemu.org/",
+    "description": "QEMU is a generic and open source machine emulator and virtualizer."
+  },
+  {
+    "name": "Vagrant",
+    "url": "https://www.vagrantup.com/",
+    "description": "Tool for building complete development environments."
+  },
+  {
+    "name": "VirtualBox",
+    "url": "https://www.virtualbox.org/",
+    "description": "Virtualization product from Oracle Corporation."
+  },
+  {
+    "name": "Xen",
+    "url": "http://www.xenproject.org/",
+    "description": "Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures."
+  },
+  {
+    "name": "OpenVPN",
+    "url": "https://community.openvpn.net",
+    "description": "Uses a custom security protocol that utilizes SSL/TLS for key exchange."
+  },
+  {
+    "name": "Pritunl",
+    "url": "http://pritunl.com/",
+    "description": "OpenVPN based solution. Easy to set up."
+  },
+  {
+    "name": "SoftEther",
+    "url": "https://www.softether.org/",
+    "description": "Multi-protocol software VPN with advanced features"
+  },
+  {
+    "name": "sshuttle",
+    "url": "https://github.com/apenwarr/sshuttle",
+    "description": "Poor man's VPN."
+  },
+  {
+    "name": "strongSwan",
+    "url": "http://www.strongswan.org/",
+    "description": "Complete IPsec implementation for Linux."
+  },
+  {
+    "name": "tinc",
+    "url": "http://www.tinc-vpn.org/",
+    "description": "Distributed p2p VPN."
+  },
+  {
+    "name": "wireguard",
+    "url": "https://www.wireguard.com/",
+    "description": "New minimal VPN Solution that is very fast."
+  },
+  {
+    "name": "Apache",
+    "url": "http://httpd.apache.org/",
+    "description": "Most popular web server."
+  },
+  {
+    "name": "Caddy",
+    "url": "https://caddyserver.com/",
+    "description": "The HTTP/2 Web Server with Fully Managed TLS."
+  },
+  {
+    "name": "Cherokee",
+    "url": "http://cherokee-project.com/",
+    "description": "Lightweight, high-performance web server/reverse proxy."
+  },
+  {
+    "name": "Lighttpd",
+    "url": "http://www.lighttpd.net/",
+    "description": "Web server more optimized for speed-critical environments."
+  },
+  {
+    "name": "Nginx",
+    "url": "http://nginx.org/",
+    "description": "Reverse proxy, load balancer, HTTP cache, and web server."
+  },
+  {
+    "name": "uWSGI",
+    "url": "https://github.com/unbit/uwsgi/",
+    "description": "The uWSGI project aims at developing a full stack for building hosting services."
+  },
+  {
+    "name": "HAProxy",
+    "url": "http://www.haproxy.org/",
+    "description": "Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing."
+  },
+  {
+    "name": "Squid",
+    "url": "http://www.squid-cache.org/",
+    "description": "Caching proxy for the web supporting HTTP, HTTPS, FTP, and more."
+  },
+  {
+    "name": "Traefik",
+    "url": "https://traefik.io/",
+    "description": "Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease."
+  },
+  {
+    "name": "Varnish",
+    "url": "https://www.varnish-cache.org/",
+    "description": "HTTP based web application accelerator focusing on optimizing caching and compression."
+  },
+  {
+    "name": "Mailpile",
+    "url": "https://www.mailpile.is/",
+    "description": "A modern, fast web-mail client with user-friendly encryption and privacy features."
+  },
+  {
+    "name": "Roundcube",
+    "url": "http://roundcube.net/",
+    "description": "Browser-based IMAP client with an application-like user interface."
+  },
+  {
+    "name": "SquirrelMail",
+    "url": "http://squirrelmail.org",
+    "description": "Another browser-based IMAP client."
+  },
+  {
+    "name": "BookStack",
+    "url": "https://www.bookstackapp.com/",
+    "description": "A simple, user-friendly wiki built with PHP that uses MySQL for storage."
+  },
+  {
+    "name": "DokuWiki",
+    "url": "https://www.dokuwiki.org/dokuwiki",
+    "description": "Simple to use and highly versatile wiki that doesn't require a database."
+  },
+  {
+    "name": "Gollum",
+    "url": "https://github.com/gollum/gollum",
+    "description": "A simple, Git-powered wiki with a sweet API and local frontend."
+  },
+  {
+    "name": "ikiwiki",
+    "url": "http://ikiwiki.info/",
+    "description": "A wiki compiler."
+  },
+  {
+    "name": "MDwiki",
+    "url": "http://dynalon.github.io/mdwiki/#!index.md",
+    "description": "Wiki completely built in HTML5/Javascript and runs 100% on the client."
+  },
+  {
+    "name": "MediaWiki",
+    "url": "http://www.mediawiki.org/wiki/MediaWiki",
+    "description": "Used to power Wikipedia."
+  },
+  {
+    "name": "MoinMoin",
+    "url": "http://moinmo.in/",
+    "description": "An advanced, easy to use and extensible WikiEngine with a large community of users."
+  },
+  {
+    "name": "Ōlelo Wiki",
+    "url": "https://github.com/minad/olelo",
+    "description": "A a wiki that stores pages in a Git repository."
+  },
+  {
+    "name": "TiddlyWiki",
+    "url": "http://tiddlywiki.com",
+    "description": "Complete interactive wiki in JavaScript."
+  },
+  {
+    "name": "Code as Craft",
+    "url": "http://codeascraft.com/",
+    "description": "Etsy's Ops blog, lots of technical posts."
+  },
+  {
+    "name": "DevOpsGuys",
+    "url": "http://blog.devopsguys.com/",
+    "description": "Devops consultants who blog about operations."
+  },
+  {
+    "name": "Rackspace Developers",
+    "url": "http://developer.rackspace.com/blog/",
+    "description": "Slightly biased blog with lots of Devops Topics."
+  },
+  {
+    "name": "[Learn Cisco Network Administration in a Month of Lunches] (https://www.manning.com/books/learn-cisco-network-administration-in-a-month-of-lunches)",
+    "url": "https://www.manning.com/books/learn-cisco-network-administration-in-a-month-of-lunches",
+    "description": "A tutorial designed for sysadmins who need to learn how to administer Cisco switches and routers."
+  },
+  {
+    "name": "The Linux Command Line",
+    "url": "http://linuxcommand.org/tlcl.php",
+    "description": "A book about the Linux command line by William Shotts."
+  },
+  {
+    "name": "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",
+    "url": "http://itrevolution.com/books/phoenix-project-devops-book/",
+    "description": "How DevOps techniques can fix the problems that happen in IT organizations."
+  },
+  {
+    "name": "The Practice of System and Network Administration",
+    "url": "http://everythingsysadmin.com/books.html",
+    "description": "The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies."
+  },
+  {
+    "name": "The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps",
+    "url": "http://www.itpi.org/the-visible-ops-handbook-review.html",
+    "description": "Is a methodology designed to jumpstart implementation of controls and process improvement."
+  },
+  {
+    "name": "UNIX and Linux System Administration Handbook",
+    "url": "http://www.admin.com/",
+    "description": "Approaches system administration from a practical perspective."
+  },
+  {
+    "name": "Securing DevOps",
+    "url": "https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8",
+    "description": "A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure."
+  },
+  {
+    "name": "Servers for Hackers",
+    "url": "http://serversforhackers.com/",
+    "description": "Newsletter for programmers who find themselves needing to know their way around a server."
+  },
+  {
+    "name": "DevOpsLinks",
+    "url": "http://devopslinks.com",
+    "description": "A community of DevOps, SysAdmin & Developers with a weekly newsletter and a team chat."
+  },
+  {
+    "name": "Dotdeb",
+    "url": "http://www.dotdeb.org/",
+    "description": "Repository with LAMP updated packages for Debian."
+  },
+  {
+    "name": "ElRepo",
+    "url": "http://elrepo.org/tiki/tiki-index.php",
+    "description": "Community Repo for Enterprise Linux (RHEL, CentOS, etc)."
+  },
+  {
+    "name": "EPEL",
+    "url": "https://fedoraproject.org/wiki/EPEL",
+    "description": "Repository for RHEL and compatibles (CentOS, Scientific Linux)."
+  },
+  {
+    "name": "Remi",
+    "url": "http://rpms.famillecollet.com/",
+    "description": "Repository with LAMP updated packages for RHEL/Centos/Fedora."
+  },
+  {
+    "name": "Software Collections",
+    "url": "https://www.softwarecollections.org",
+    "description": "Community Release of Red Hat Software Collections. Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x."
+  },
+  {
+    "name": "Ops School",
+    "url": "http://www.opsschool.org",
+    "description": "Comprehensive program that will help you learn to be an operations engineer."
+  },
+  {
+    "name": "Digital Ocean Tutorials",
+    "url": "https://www.digitalocean.com/community/tutorials",
+    "description": "A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics."
+  }
+]

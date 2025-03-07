@@ -1,0 +1,1687 @@
+[
+  {
+    "name": "django-hijack",
+    "url": "https://github.com/arteria/django-hijack",
+    "description": "Admins can log in and work on behalf of other users without having to know their credentials."
+  },
+  {
+    "name": "django-import-export",
+    "url": "https://github.com/django-import-export/django-import-export",
+    "description": "Django application and library for importing and exporting data with admin integration."
+  },
+  {
+    "name": "django-admin-honeypot",
+    "url": "https://github.com/dmpayton/django-admin-honeypot",
+    "description": "Configure a honeypot to see who's trying to hack your site."
+  },
+  {
+    "name": "django-loginas",
+    "url": "https://github.com/skorokithakis/django-loginas",
+    "description": "\"Log in as user\" for the Django admin."
+  },
+  {
+    "name": "impostor",
+    "url": "https://github.com/avallbona/Impostor",
+    "description": "Impostor is a Django application which allows staff members to login as a different user by using their own username and password."
+  },
+  {
+    "name": "django-impersonate",
+    "url": "https://pypi.org/project/django-impersonate/",
+    "description": "Allow superusers to “impersonate” other non-superuser accounts."
+  },
+  {
+    "name": "django-admin-env-notice",
+    "url": "https://github.com/dizballanze/django-admin-env-notice",
+    "description": "Visually distinguish environments in Django Admin, for example: development, staging, production."
+  },
+  {
+    "name": "django-related-admin",
+    "url": "https://github.com/PetrDlouhy/django-related-admin",
+    "description": "A helper library that allows you to write list_displays across foreign key relationships."
+  },
+  {
+    "name": "django-admin-sortable2",
+    "url": "https://github.com/jrief/django-admin-sortable2",
+    "description": "Generic drag-and-drop ordering for objects in the Django admin interface."
+  },
+  {
+    "name": "django-grappelli",
+    "url": "https://github.com/sehmaschine/django-grappelli",
+    "description": "A jazzy skin for the admin."
+  },
+  {
+    "name": "django-jazzmin",
+    "url": "https://github.com/farridav/django-jazzmin",
+    "description": "Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy."
+  },
+  {
+    "name": "django-admin-interface",
+    "url": "https://github.com/fabiocaccamo/django-admin-interface",
+    "description": "Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals."
+  },
+  {
+    "name": "django-material-admin",
+    "url": "https://github.com/MaistrenkoAnton/django-material-admin",
+    "description": "Material design for django administration."
+  },
+  {
+    "name": "django-semantic-admin",
+    "url": "https://github.com/globophobe/django-semantic-admin",
+    "description": "Django Semantic UI admin theme."
+  },
+  {
+    "name": "django-jet-reboot",
+    "url": "https://github.com/b1go/django-jet-reboot",
+    "description": "Django Jet is modern template for Django admin interface with improved functionality."
+  },
+  {
+    "name": "django-baton",
+    "url": "https://github.com/otto-torino/django-baton",
+    "description": "A cool, modern and responsive django admin application based on bootstrap 5."
+  },
+  {
+    "name": "django-unfold",
+    "url": "https://github.com/unfoldadmin/django-unfold",
+    "description": "Modern Django admin theme for seamless interface development."
+  },
+  {
+    "name": "django-daisy",
+    "url": "https://github.com/hypy13/django-daisy",
+    "description": "A modern django dashboard fully responsive built with daisyui."
+  },
+  {
+    "name": "django-admin-dracula",
+    "url": "https://github.com/sjbitcode/django-admin-dracula",
+    "description": "🦇 Dracula themes for the Django admin."
+  },
+  {
+    "name": "django-rest-framework",
+    "url": "https://github.com/encode/django-rest-framework",
+    "description": "Web APIs for Django."
+  },
+  {
+    "name": "django-cors-headers",
+    "url": "https://github.com/adamchainz/django-cors-headers",
+    "description": "If your back-end and front-end are on different servers, you need this."
+  },
+  {
+    "name": "dj-rest-auth",
+    "url": "https://github.com/jazzband/dj-rest-auth",
+    "description": "Authentication for Django Rest Framework."
+  },
+  {
+    "name": "django-rest-knox",
+    "url": "https://github.com/James1345/django-rest-knox",
+    "description": "Authentication Module for django-rest-auth."
+  },
+  {
+    "name": "djoser",
+    "url": "https://github.com/sunscrapers/djoser",
+    "description": "REST implementation of Django auth."
+  },
+  {
+    "name": "djaq",
+    "url": "https://github.com/paul-wolf/djaq",
+    "description": "An instant remote API to Django models with a powerful query language."
+  },
+  {
+    "name": "django-rest-framework-simplejwt",
+    "url": "https://github.com/davesque/django-rest-framework-simplejwt",
+    "description": "JSON web tokens for DRF."
+  },
+  {
+    "name": "django-webpack-loader",
+    "url": "https://github.com/owais/django-webpack-loader",
+    "description": "Transparently use webpack with Django."
+  },
+  {
+    "name": "drf-yasg",
+    "url": "https://github.com/axnsan12/drf-yasg",
+    "description": "Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code."
+  },
+  {
+    "name": "graphene-django",
+    "url": "https://github.com/graphql-python/graphene-django",
+    "description": "GraphQL for Django."
+  },
+  {
+    "name": "graphene-django-filter",
+    "url": "https://github.com/devind-team/graphene-django-filter",
+    "description": "Advanced filters implementing and/or/not operators in GraphQL for Django."
+  },
+  {
+    "name": "django-ninja",
+    "url": "https://django-ninja.rest-framework.com/",
+    "description": "Django Ninja"
+  },
+  {
+    "name": "django-tastypie",
+    "url": "https://github.com/django-tastypie/django-tastypie",
+    "description": "Creating delicious APIs for Django apps since 2010."
+  },
+  {
+    "name": "drf-spectacular",
+    "url": "https://github.com/tfranzel/drf-spectacular",
+    "description": "Sane and flexible OpenAPI 3 schema generation for Django REST framework."
+  },
+  {
+    "name": "django-webhook",
+    "url": "https://github.com/danihodovic/django-webhook",
+    "description": "A plug-and-play Django app for sending outgoing webhooks on model changes."
+  },
+  {
+    "name": "channels",
+    "url": "https://github.com/django/channels/",
+    "description": "Async support for Django."
+  },
+  {
+    "name": "starlette",
+    "url": "https://github.com/encode/starlette",
+    "description": "ASGI framework."
+  },
+  {
+    "name": "django-cachalot",
+    "url": "https://github.com/noripyt/django-cachalot",
+    "description": "Caches your Django ORM queries and automatically invalidates them."
+  },
+  {
+    "name": "django-cacheops",
+    "url": "https://github.com/Suor/django-cacheops",
+    "description": "A slick ORM cache with automatic granular event-driven invalidation."
+  },
+  {
+    "name": "django-extensions",
+    "url": "https://github.com/django-extensions/django-extensions/",
+    "description": "Custom management extensions, notably runserver_plus and shell_plus."
+  },
+  {
+    "name": "django-click",
+    "url": "https://github.com/GaretJax/django-click",
+    "description": "Write Django management commands using the click CLI library."
+  },
+  {
+    "name": "django-dbbackup",
+    "url": "https://github.com/django-dbbackup/django-dbbackup",
+    "description": "Management commands to help backup and restore your project database and media files."
+  },
+  {
+    "name": "django-liquidb",
+    "url": "https://github.com/Gusakovskiy/django-liquidb",
+    "description": "Django application to simplify migration management and changes in states of db scheme."
+  },
+  {
+    "name": "django-migration-zero",
+    "url": "https://github.com/ambient-innovation/django-migration-zero/",
+    "description": "Holistic implementation of \"migration zero\" pattern for Django covering local changes and in-production database adjustments."
+  },
+  {
+    "name": "django-typer",
+    "url": "https://github.com/bckohan/django-typer",
+    "description": "Write Django management commands using the Typer CLI library."
+  },
+  {
+    "name": "confidential",
+    "url": "https://github.com/candidco/confidential",
+    "description": "Manage configs and secrets (with CLI support)."
+  },
+  {
+    "name": "django-environ",
+    "url": "https://github.com/joke2k/django-environ",
+    "description": "Environment variables."
+  },
+  {
+    "name": "django-split-settings",
+    "url": "https://github.com/sobolevn/django-split-settings",
+    "description": "Organize multiple settings files."
+  },
+  {
+    "name": "django-constance",
+    "url": "https://github.com/jazzband/django-constance",
+    "description": "A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app."
+  },
+  {
+    "name": "django-configurations",
+    "url": "https://github.com/jazzband/django-configurations",
+    "description": "eases Django project configuration by relying on the composability of Python classes and following principles of the twelve-factor app."
+  },
+  {
+    "name": "dynaconf",
+    "url": "https://www.dynaconf.com/django/",
+    "description": "Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following the twelve-factor app."
+  },
+  {
+    "name": "django-extra-settings",
+    "url": "https://github.com/fabiocaccamo/django-extra-settings",
+    "description": "Config and manage typed extra settings using just the django admin."
+  },
+  {
+    "name": "environs",
+    "url": "https://github.com/sloria/environs",
+    "description": "Simplified environment variable parsing that comes with a Django helper that installs additional packages."
+  },
+  {
+    "name": "django-classy-settings",
+    "url": "https://github.com/funkybob/django-classy-settings",
+    "description": "Class based settings to keep your environments in order, with easy access to typed environment variables."
+  },
+  {
+    "name": "django-content-settings",
+    "url": "https://django-content-settings.readthedocs.io/en/latest/",
+    "description": "Easily create and manage editable typed variables directly from the Django admin panel."
+  },
+  {
+    "name": "wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "description": "Popular Django content management system (CMS). See awesome-wagtail too."
+  },
+  {
+    "name": "mezzanine",
+    "url": "https://github.com/stephenmcd/mezzanine",
+    "description": "CMS framework."
+  },
+  {
+    "name": "django-cms",
+    "url": "https://github.com/divio/django-cms",
+    "description": "CMS for Django."
+  },
+  {
+    "name": "feincms",
+    "url": "https://github.com/feincms/feincms",
+    "description": "An extensible Django-based CMS."
+  },
+  {
+    "name": "puput",
+    "url": "https://github.com/APSL/puput",
+    "description": "Blog app features with Wagtail."
+  },
+  {
+    "name": "djongo",
+    "url": "https://github.com/doableware/djongo",
+    "description": "Django and MongoDB database connector."
+  },
+  {
+    "name": "saleor",
+    "url": "https://github.com/mirumee/saleor",
+    "description": "GraphQL-based Django E-Commerce Platform."
+  },
+  {
+    "name": "django-shop",
+    "url": "https://github.com/awesto/django-shop",
+    "description": "Django-based shop system."
+  },
+  {
+    "name": "shuup",
+    "url": "https://github.com/shuup/shuup",
+    "description": "Django E-Commerce Platform."
+  },
+  {
+    "name": "django-oscar",
+    "url": "https://github.com/django-oscar/django-oscar",
+    "description": "Domain-driven e-commerce for Django."
+  },
+  {
+    "name": "django-markdownx",
+    "url": "https://github.com/adi-/django-markdownx",
+    "description": "Comprehensive Markdown plugin built for Django."
+  },
+  {
+    "name": "django-markdown-editor",
+    "url": "https://github.com/agusmakmun/django-markdown-editor",
+    "description": "Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI."
+  },
+  {
+    "name": "django-business-logic",
+    "url": "https://github.com/dgk/django-business-logic",
+    "description": "Visual DSL framework for Django."
+  },
+  {
+    "name": "django-summernote",
+    "url": "https://github.com/summernote/django-summernote",
+    "description": "Summernote is a simple WYSIWYG editor."
+  },
+  {
+    "name": "django-tinymce",
+    "url": "https://github.com/jazzband/django-tinymce",
+    "description": "TinyMCE integration for Django."
+  },
+  {
+    "name": "django-prose",
+    "url": "https://github.com/withlogicco/django-prose",
+    "description": "A light weight editor to content creation."
+  },
+  {
+    "name": "django-ace",
+    "url": "https://github.com/django-ace/django-ace",
+    "description": "ACE integration for Django."
+  },
+  {
+    "name": "django-cleanup",
+    "url": "https://github.com/un1t/django-cleanup",
+    "description": "Zero configuration file/image removal for local and remote files."
+  },
+  {
+    "name": "django-imagekit",
+    "url": "https://github.com/matthewwithanm/django-imagekit",
+    "description": "Django app for processing images for thumbnail, black-and-white and sizes."
+  },
+  {
+    "name": "django-pictures",
+    "url": "https://github.com/codingjoe/django-pictures",
+    "description": "Responsive cross-browser image library using modern codes like AVIF & WebP."
+  },
+  {
+    "name": "sorl-thumbnail",
+    "url": "https://github.com/jazzband/sorl-thumbnail",
+    "description": "Thumbnails for Django."
+  },
+  {
+    "name": "django-bleach",
+    "url": "https://github.com/marksweb/django-bleach/",
+    "description": "Integrate bleach into forms and models. See django-nh3 as an alternative."
+  },
+  {
+    "name": "django-crispy-forms",
+    "url": "https://github.com/django-crispy-forms/django-crispy-forms/",
+    "description": "DRY Django forms."
+  },
+  {
+    "name": "django-floppyforms",
+    "url": "https://github.com/jazzband/django-floppyforms",
+    "description": "Full control of form rendering."
+  },
+  {
+    "name": "django-formtools",
+    "url": "https://github.com/jazzband/django-formtools",
+    "description": "For form previous and multi-step forms, previously part of Django until 1.8."
+  },
+  {
+    "name": "django-widget-tweaks",
+    "url": "https://github.com/jazzband/django-widget-tweaks",
+    "description": "Tweak form field rendering in templates."
+  },
+  {
+    "name": "django-autocomplete-light",
+    "url": "https://github.com/yourlabs/django-autocomplete-light",
+    "description": "Add autocompletion to forms."
+  },
+  {
+    "name": "django-shapeshifter",
+    "url": "https://github.com/kennethlove/django-shapeshifter",
+    "description": "A class-based view to handle multiple forms in one view."
+  },
+  {
+    "name": "Django-Bridge",
+    "url": "https://github.com/django-bridge/django-bridge",
+    "description": "The simple way to build React frontends for Django applications."
+  },
+  {
+    "name": "ReactPy",
+    "url": "https://github.com/reactive-python/reactpy",
+    "description": "It's React, but in Python. Insert dynamically rendered Python into Django templates using the ReactPy-Django module."
+  },
+  {
+    "name": "Reactor",
+    "url": "https://github.com/edelvalle/reactor/",
+    "description": "Phoenix LiveView, but for Django."
+  },
+  {
+    "name": "Sockpuppet",
+    "url": "https://sockpuppet.argpar.se/",
+    "description": "Build reactive applications with the Django tooling you already know and love."
+  },
+  {
+    "name": "Unicorn",
+    "url": "https://www.django-unicorn.com/",
+    "description": "A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM."
+  },
+  {
+    "name": "iommi",
+    "url": "https://github.com/TriOptima/iommi",
+    "description": "Toolkit for development of CRUD applications without writing HTML or JavaScript."
+  },
+  {
+    "name": "django-data-browser",
+    "url": "https://github.com/tolomea/django-data-browser",
+    "description": "Interactive, user-friendly database explorer."
+  },
+  {
+    "name": "django-filter",
+    "url": "https://github.com/carltongibson/django-filter",
+    "description": "Powerful filters based on Django QuerySets."
+  },
+  {
+    "name": "django-sql-explorer",
+    "url": "https://github.com/groveco/django-sql-explorer",
+    "description": "Share data via SQL queries."
+  },
+  {
+    "name": "django-tables2",
+    "url": "https://github.com/jieter/django-tables2",
+    "description": "HTML tables with pagination/sorting."
+  },
+  {
+    "name": "django-maintenance-mode",
+    "url": "https://github.com/fabiocaccamo/django-maintenance-mode",
+    "description": "Shows a 503 error page when maintenance-mode is on."
+  },
+  {
+    "name": "django-freeze",
+    "url": "https://github.com/fabiocaccamo/django-freeze",
+    "description": "Convert your dynamic django site to a static one with one line of code."
+  },
+  {
+    "name": "django-nh3",
+    "url": "https://github.com/marksweb/django-nh3",
+    "description": "Django integration with for nh3 and is an alternative for django-bleach."
+  },
+  {
+    "name": "Weblate",
+    "url": "https://github.com/WeblateOrg/weblate",
+    "description": "Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries."
+  },
+  {
+    "name": "Django-Classy-Doc",
+    "url": "https://github.com/nanuxbe/django-classy-doc",
+    "description": "Document your own code in the style of CCBV and CDRF."
+  },
+  {
+    "name": "django-localflavor",
+    "url": "https://github.com/django/django-localflavor",
+    "description": "A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core."
+  },
+  {
+    "name": "django-modeltrans",
+    "url": "https://github.com/zostera/django-modeltrans",
+    "description": "Translate Django model fields in a JSONField."
+  },
+  {
+    "name": "django-modeltranslations",
+    "url": "https://github.com/deschler/django-modeltranslation",
+    "description": " Translates Django models using a registration approach."
+  },
+  {
+    "name": "django-rosetta",
+    "url": "https://github.com/mbi/django-rosetta",
+    "description": "Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin."
+  },
+  {
+    "name": "django-guid",
+    "url": "https://github.com/JonasKs/django-guid",
+    "description": "Inject a GUID (Correlation-ID) into every log message in a Django request."
+  },
+  {
+    "name": "DRF-API-Logger",
+    "url": "https://github.com/vishalanandl177/DRF-API-Logger",
+    "description": "An API Logger for your Django Rest Framework project."
+  },
+  {
+    "name": "django-prometheus",
+    "url": "https://github.com/korfuri/django-prometheus",
+    "description": "Export Django monitoring metrics to Prometheus."
+  },
+  {
+    "name": "django-mixin",
+    "url": "https://github.com/adinhodovic/django-mixin",
+    "description": "Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django."
+  },
+  {
+    "name": "django-pony-express",
+    "url": "https://github.com/ambient-innovation/django-pony-express",
+    "description": "Class-based emails including a test suite for Django."
+  },
+  {
+    "name": "django-anymail",
+    "url": "https://github.com/anymail/django-anymail",
+    "description": "Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more."
+  },
+  {
+    "name": "django-any-urlfield",
+    "url": "https://github.com/edoburu/django-any-urlfield",
+    "description": "An improved URL selector to choose between internal models and external URLs."
+  },
+  {
+    "name": "django-colorfield",
+    "url": "https://github.com/fabiocaccamo/django-colorfield",
+    "description": "Color field for django models with a nice color-picker widget."
+  },
+  {
+    "name": "django-model-utils",
+    "url": "https://github.com/jazzband/django-model-utils",
+    "description": "Django model mixins and utilities."
+  },
+  {
+    "name": "django-money",
+    "url": "https://github.com/django-money/django-money",
+    "description": "Money fields for forms/models."
+  },
+  {
+    "name": "django-phonenumber-field",
+    "url": "https://github.com/stefanfoulis/django-phonenumber-field",
+    "description": "Model/form field for normalized phone numbers."
+  },
+  {
+    "name": "django-streamfield",
+    "url": "https://github.com/raagin/django-streamfield",
+    "description": "Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea)."
+  },
+  {
+    "name": "django-lifecycle",
+    "url": "https://github.com/rsinger86/django-lifecycle",
+    "description": "Declarative model lifecycle hooks, an alternative to Signals."
+  },
+  {
+    "name": "django-mptt",
+    "url": "https://github.com/django-mptt/django-mptt",
+    "description": "Modified Preorder Tree Traversal; working with trees of Model instances."
+  },
+  {
+    "name": "django-taggit",
+    "url": "https://github.com/jazzband/django-taggit/",
+    "description": "Simple model tags."
+  },
+  {
+    "name": "django-reversion",
+    "url": "https://github.com/etianen/django-reversion",
+    "description": "Version control for model instances."
+  },
+  {
+    "name": "django-simple-history",
+    "url": "https://github.com/jazzband/django-simple-history",
+    "description": "Store model history and view/revert changes from the admin."
+  },
+  {
+    "name": "django-polymorphic",
+    "url": "https://github.com/django-polymorphic/django-polymorphic",
+    "description": "Django-polymorphic simplifies using inherited models in Django projects."
+  },
+  {
+    "name": "django-recurrence",
+    "url": "https://github.com/django-recurrence/django-recurrence",
+    "description": "Utility for working with recurring dates in Django."
+  },
+  {
+    "name": "django-treenode",
+    "url": "https://github.com/fabiocaccamo/django-treenode",
+    "description": "Abstract model/admin for tree based stuff."
+  },
+  {
+    "name": "django-auto-prefetch",
+    "url": "https://github.com/tolomea/django-auto-prefetch",
+    "description": "Automatically prefetch foreign key values as needed."
+  },
+  {
+    "name": "django-perf-rec",
+    "url": "https://cur.at/GHUO6cn?m=web",
+    "description": "Keep detailed records of the performance of your Django code."
+  },
+  {
+    "name": "New Relic",
+    "url": "https://newrelic.com/python/django",
+    "description": "Time middleware, views, and SQL queries."
+  },
+  {
+    "name": "Scout",
+    "url": "https://scoutapm.com/docs/python/django",
+    "description": "Time middleware, template rendering, and SQL queries with automatic N+1 detection."
+  },
+  {
+    "name": "django-query-profiler",
+    "url": "https://github.com/django-query-profiler/django-query-profiler",
+    "description": "Django query profiler to help resolve N+1 queries."
+  },
+  {
+    "name": "django-silk",
+    "url": "https://github.com/jazzband/django-silk",
+    "description": "Live profiling and inspection of HTTP requests and database queries."
+  },
+  {
+    "name": "py-spy",
+    "url": "https://github.com/benfred/py-spy",
+    "description": "Sampling profiler for Python programs."
+  },
+  {
+    "name": "pyinstrument",
+    "url": "https://github.com/joerick/pyinstrument",
+    "description": "Call stack profiler for Python, Django, Flask, FastAPI."
+  },
+  {
+    "name": "django-zeal",
+    "url": "https://github.com/taobojlen/django-zeal",
+    "description": "Detect N+1 queries with user-friendly error messages"
+  },
+  {
+    "name": "django-role-permissions",
+    "url": "https://github.com/vintasoftware/django-role-permissions",
+    "description": "Django app for role-based permissions management."
+  },
+  {
+    "name": "django-guardian",
+    "url": "https://github.com/django-guardian/django-guardian",
+    "description": "Per object permissions in Django."
+  },
+  {
+    "name": "django-rules",
+    "url": "https://github.com/dfunckt/django-rules",
+    "description": "A tiny but powerful app providing object-level permissions, built from the ground up for Django."
+  },
+  {
+    "name": "django-haystack",
+    "url": "https://github.com/django-haystack/django-haystack",
+    "description": "Modular search for Django."
+  },
+  {
+    "name": "django-watson",
+    "url": "https://github.com/etianen/django-watson",
+    "description": "Full-text search plugin."
+  },
+  {
+    "name": "django-admin-search",
+    "url": "https://github.com/shinneider/django-admin-search",
+    "description": "Modal filter for django admin."
+  },
+  {
+    "name": "django-elasticsearch-dsl",
+    "url": "https://github.com/django-es/django-elasticsearch-dsl",
+    "description": "Elasticsearch DSL integration for Django."
+  },
+  {
+    "name": "django-check-seo",
+    "url": "https://github.com/kapt-labs/django-check-seo",
+    "description": "Check SEO of pages."
+  },
+  {
+    "name": "django-csp",
+    "url": "https://github.com/mozilla/django-csp",
+    "description": "Adds Content-Security-Policy headers to Django."
+  },
+  {
+    "name": "django-feature-policy",
+    "url": "https://github.com/adamchainz/django-feature-policy",
+    "description": "Set the draft security HTTP header Feature-Policy on a Django app."
+  },
+  {
+    "name": "django-protected-media",
+    "url": "https://github.com/cobusc/django-protected-media",
+    "description": "Manages media that are considered sensitive in a protected fashion."
+  },
+  {
+    "name": "DJ Checkup",
+    "url": "https://djcheckup.com",
+    "description": "Runs several checks on your deployed Django site to check for common security mistakes."
+  },
+  {
+    "name": "django-storages",
+    "url": "https://github.com/jschneier/django-storages",
+    "description": "A single library to support multiple custom storage backends for Django."
+  },
+  {
+    "name": "django-compressor",
+    "url": "https://github.com/django-compressor/django-compressor/",
+    "description": "Compress JavaScript/CSS into a single cached file."
+  },
+  {
+    "name": "easy-thumbnails",
+    "url": "https://github.com/SmileyChris/easy-thumbnails",
+    "description": "Image thumbnails for Django."
+  },
+  {
+    "name": "whitenoise",
+    "url": "https://github.com/evansd/whitenoise",
+    "description": "Simplified static file serving for Python websites."
+  },
+  {
+    "name": "beatserver",
+    "url": "https://github.com/rajasimon/beatserver",
+    "description": "A periodic task scheduler for Django."
+  },
+  {
+    "name": "django-q2",
+    "url": "https://github.com/django-q2/django-q2",
+    "description": "A multiprocessing distributed task queue for Django."
+  },
+  {
+    "name": "django-rq",
+    "url": "https://github.com/rq/django-rq",
+    "description": "Integration for Redis Queue."
+  },
+  {
+    "name": "django-redis",
+    "url": "https://github.com/niwinz/django-redis",
+    "description": "Full-featured Redis cache backend for Django."
+  },
+  {
+    "name": "celery",
+    "url": "https://github.com/celery/celery",
+    "description": "Robust and broker-agnostic task queues for bigger, performance-focused projects."
+  },
+  {
+    "name": "flower",
+    "url": "https://github.com/mher/flower",
+    "description": "Flower is a web-based tool for monitoring and administrating Celery clusters."
+  },
+  {
+    "name": "django-celery-beat",
+    "url": "https://github.com/celery/django-celery-beat",
+    "description": "A periodic task scheduler with database configured by Django's Admin Panel."
+  },
+  {
+    "name": "celery-exporter",
+    "url": "https://github.com/danihodovic/celery-exporter",
+    "description": "Prometheus & Grafana monitoring of Celery tasks."
+  },
+  {
+    "name": "django-dramatiq",
+    "url": "https://github.com/Bogdanp/django_dramatiq",
+    "description": "Task processing library with a focus on simplicity, reliability, and performance."
+  },
+  {
+    "name": "django-celery-results",
+    "url": "https://github.com/celery/django-celery-results",
+    "description": " Celery result backend with Django."
+  },
+  {
+    "name": "django-tasks",
+    "url": "https://github.com/realOrangeOne/django-tasks",
+    "description": " A reference implementation and backport of background workers and tasks in Django, based on DEP 14."
+  },
+  {
+    "name": "curlylint",
+    "url": "https://www.curlylint.org/",
+    "description": "Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid."
+  },
+  {
+    "name": "django-components",
+    "url": "https://github.com/EmilStenstrom/django-components/",
+    "description": "A way to create simple reusable template components in Django."
+  },
+  {
+    "name": "django-template-partials",
+    "url": "https://github.com/carltongibson/django-template-partials/",
+    "description": "Reusable named inline partials for the Django Template Language."
+  },
+  {
+    "name": "djhtml",
+    "url": "https://github.com/rtts/djhtml",
+    "description": "Django/Jinja template indenter."
+  },
+  {
+    "name": "djlint",
+    "url": "https://www.djlint.com/",
+    "description": "Lint & Format HTML Templates."
+  },
+  {
+    "name": "slippers",
+    "url": "https://mitchel.me/slippers/",
+    "description": "Build reusable components in Django without writing a single line of Python."
+  },
+  {
+    "name": "JinjaX",
+    "url": "https://jinjax.scaletti.dev/",
+    "description": "Super components powers for your Jinja templates."
+  },
+  {
+    "name": "django-cotton",
+    "url": "https://django-cotton.com/",
+    "description": "Goodbye {% raw %}{%{% endraw %} extends, block, include {% raw %}%}{% endraw %}, Hello <c-component />. Bringing modern UI composition to Django."
+  },
+  {
+    "name": "htpy",
+    "url": "https://htpy.dev/",
+    "description": "htpy is a library that makes writing HTML in plain Python fun and efficient, without a template language."
+  },
+  {
+    "name": "django-debug-toolbar",
+    "url": "https://github.com/jazzband/django-debug-toolbar/",
+    "description": "Configurable panels to debug requests/responses."
+  },
+  {
+    "name": "pytest-django",
+    "url": "https://github.com/pytest-dev/pytest-django",
+    "description": "Use pytest features in Django."
+  },
+  {
+    "name": "django-test-migrations",
+    "url": "https://github.com/wemake-services/django-test-migrations",
+    "description": "Test django schema and data migrations, including migrations' order."
+  },
+  {
+    "name": "django-test-plus",
+    "url": "https://github.com/revsys/django-test-plus/",
+    "description": "Useful additions to Django's default TestCase."
+  },
+  {
+    "name": "factory-boy",
+    "url": "https://github.com/FactoryBoy/factory_boy",
+    "description": "Test fixtures replacement."
+  },
+  {
+    "name": "django-waffle",
+    "url": "https://github.com/django-waffle/django-waffle",
+    "description": "A feature flipper for Django."
+  },
+  {
+    "name": "model-bakery",
+    "url": "https://github.com/model-bakers/model_bakery",
+    "description": "Object factory for Django (rename of legacy Model Mommy project)."
+  },
+  {
+    "name": "django-fakery",
+    "url": "https://github.com/fcurella/django-fakery",
+    "description": "An easy-to-use implementation of Creation Methods for Django, backed by Faker."
+  },
+  {
+    "name": "drf-openapi-tester",
+    "url": "https://github.com/snok/drf-openapi-tester",
+    "description": "Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation."
+  },
+  {
+    "name": "django-google-optimize",
+    "url": "https://github.com/adinhodovic/django-google-optimize",
+    "description": "Django application designed to make running server side Google Optimize A/B tests easy."
+  },
+  {
+    "name": "django-pattern-library",
+    "url": "https://github.com/torchbox/django-pattern-library",
+    "description": "Pattern library generator for Django templates, to help testing of UI components."
+  },
+  {
+    "name": "storybook-django",
+    "url": "https://github.com/torchbox/storybook-django",
+    "description": "Develop Django UI components in isolation, with Storybook."
+  },
+  {
+    "name": "dj-database-url",
+    "url": "https://github.com/jacobian/dj-database-url",
+    "description": "Database URLs."
+  },
+  {
+    "name": "urlman",
+    "url": "https://github.com/andrewgodwin/urlman",
+    "description": "A nicer way to do URLs for Django models."
+  },
+  {
+    "name": "django-robots",
+    "url": "https://github.com/jazzband/django-robots",
+    "description": "This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app."
+  },
+  {
+    "name": "django-redirects",
+    "url": "https://github.com/fabiocaccamo/django-redirects",
+    "description": "Redirects as they should be, with full control."
+  },
+  {
+    "name": "django-allauth",
+    "url": "https://github.com/pennersr/django-allauth/",
+    "description": "Improved user registration including social auth."
+  },
+  {
+    "name": "django-allauth-ui",
+    "url": "https://github.com/danihodovic/django-allauth-ui/",
+    "description": "Better looking templates for django-allauth."
+  },
+  {
+    "name": "django-improved-user",
+    "url": "https://github.com/jambonsw/django-improved-user",
+    "description": "A custom Django user that authenticates via email. Follows identity and authentication best practices."
+  },
+  {
+    "name": "django-organizations",
+    "url": "https://github.com/bennylope/django-organizations/",
+    "description": "Multi-user accounts for Django projects."
+  },
+  {
+    "name": "django-cas-ng",
+    "url": "https://github.com/django-cas-ng/django-cas-ng",
+    "description": "Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO)."
+  },
+  {
+    "name": "django-guest-user",
+    "url": "https://github.com/julianwachholz/django-guest-user",
+    "description": "Allow visitors to use your site like a regular user and register later."
+  },
+  {
+    "name": "django-braces",
+    "url": "https://github.com/brack3t/django-braces",
+    "description": "Reusable, generic mixins."
+  },
+  {
+    "name": "django-easy-audit",
+    "url": "https://github.com/soynatan/django-easy-audit",
+    "description": "Keep track of user actions."
+  },
+  {
+    "name": "django-extra-views",
+    "url": "https://github.com/AndrewIngram/django-extra-views",
+    "description": "Extra class-based generic views."
+  },
+  {
+    "name": "django-vanilla-views",
+    "url": "https://github.com/tomchristie/django-vanilla-views",
+    "description": "Simpler class-based views in Django."
+  },
+  {
+    "name": "django-stronghold",
+    "url": "https://github.com/mgrouchy/django-stronghold",
+    "description": "Makes all your Django views default login_required."
+  },
+  {
+    "name": "neapolitan",
+    "url": "https://github.com/carltongibson/neapolitan",
+    "description": "Quick CRUD views for Django."
+  },
+  {
+    "name": "bleach",
+    "url": "https://github.com/mozilla/bleach",
+    "description": "Sanitize your inputs/forms."
+  },
+  {
+    "name": "black",
+    "url": "https://github.com/psf/black",
+    "description": "Uncompromising Python code formatter."
+  },
+  {
+    "name": "coveragepy",
+    "url": "https://github.com/nedbat/coveragepy",
+    "description": "Code coverage measurement."
+  },
+  {
+    "name": "faker",
+    "url": "https://github.com/joke2k/faker",
+    "description": "Faker is a Python package that generates fake data for you."
+  },
+  {
+    "name": "huey",
+    "url": "https://github.com/coleifer/huey",
+    "description": "A little task queue for Python."
+  },
+  {
+    "name": "nplusone",
+    "url": "https://github.com/jmcarp/nplusone",
+    "description": "Auto-detect n+1 queries."
+  },
+  {
+    "name": "pillow",
+    "url": "https://github.com/python-pillow/Pillow",
+    "description": "Python Imaging Library."
+  },
+  {
+    "name": "pytest",
+    "url": "https://github.com/pytest-dev/pytest/",
+    "description": "Testing framework."
+  },
+  {
+    "name": "python-decouple",
+    "url": "https://github.com/henriquebastos/python-decouple",
+    "description": "Strict separation of settings from code."
+  },
+  {
+    "name": "python-slugify",
+    "url": "https://github.com/un33k/python-slugify",
+    "description": "Returns unicode slugs."
+  },
+  {
+    "name": "sentry-python",
+    "url": "https://github.com/getsentry/sentry-python",
+    "description": "Error reporting SDK."
+  },
+  {
+    "name": "python-socketio",
+    "url": "https://github.com/miguelgrinberg/python-socketio",
+    "description": "Python implementation of the Socket.IO_ realtime client and server. (create Socket.io Django server instance)"
+  },
+  {
+    "name": "Ruff",
+    "url": "https://github.com/astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter, written in Rust."
+  },
+  {
+    "name": "Project Website",
+    "url": "https://www.djangoproject.com/",
+    "description": "Official Django website."
+  },
+  {
+    "name": "Documentation",
+    "url": "https://docs.djangoproject.com/en/dev/",
+    "description": "Comprehensive documentation for all Django versions."
+  },
+  {
+    "name": "Polls Tutorial",
+    "url": "https://docs.djangoproject.com/en/dev/intro/tutorial01/",
+    "description": "Build a polls tutorial while learning Django internals."
+  },
+  {
+    "name": "Source Code",
+    "url": "https://github.com/django/django/",
+    "description": "Hosted on GitHub."
+  },
+  {
+    "name": "Django Girls Tutorial",
+    "url": "https://tutorial.djangogirls.org/en/",
+    "description": "Use function-based views to build a blog app."
+  },
+  {
+    "name": "LearnDjango",
+    "url": "https://learndjango.com/",
+    "description": "Tutorials and premium courses on Django and Django REST Framework."
+  },
+  {
+    "name": "Adam Johnson",
+    "url": "https://adamj.eu/tech/",
+    "description": "Adam is on the Technical Board of Django and regularly writes tutorials."
+  },
+  {
+    "name": "Photon Designer",
+    "url": "https://photondesigner.com/articles",
+    "description": "Django tutorials"
+  },
+  {
+    "name": "TestDriven",
+    "url": "https://testdriven.io/blog/",
+    "description": "Multiple Django-specific tutorials on topics like Docker, payments, and more."
+  },
+  {
+    "name": "Classy Class-Based Views",
+    "url": "https://ccbv.co.uk/",
+    "description": "Detailed descriptions of methods/properties/attributes for each generic class-based view."
+  },
+  {
+    "name": "Classy Django Forms",
+    "url": "https://github.com/ana-balica/classy-django-forms",
+    "description": "Detailed descriptions of methods/properties/attributes for each form class."
+  },
+  {
+    "name": "Classy Django REST Framework",
+    "url": "http://www.cdrf.co",
+    "description": "Detailed descriptions with methods/attributes for DRF class-based views and serializers."
+  },
+  {
+    "name": "Simple is Better than Complex",
+    "url": "https://simpleisbetterthancomplex.com/",
+    "description": "Regularly updated website with many tutorials and tips on Django."
+  },
+  {
+    "name": "Full Stack Python's Django Page",
+    "url": "https://www.fullstackpython.com/django.html",
+    "description": "Explanation of Django philosophy and links to other resources and tutorials."
+  },
+  {
+    "name": "RealPython",
+    "url": "https://realpython.com/tutorials/django/",
+    "description": "Many high-quality tutorials on Django."
+  },
+  {
+    "name": "Mozilla Tutorial",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django",
+    "description": "Create a lending library app."
+  },
+  {
+    "name": "Matt Layman",
+    "url": "https://www.mattlayman.com",
+    "description": "Regular tutorials and deep-dives on Django topics."
+  },
+  {
+    "name": "Django Styleguide",
+    "url": "https://github.com/HackSoftware/Django-Styleguide",
+    "description": "Styleguide for Django with best practices and examples."
+  },
+  {
+    "name": "Django Template Tags and Filters",
+    "url": "https://www.djangotemplatetagsandfilters.com/",
+    "description": "Additional docs on Django's 57 built-in template filters and 27 template tags."
+  },
+  {
+    "name": "Django for Everybody",
+    "url": "https://www.dj4e.com/",
+    "description": "A complete course for webdev beginners focused on Django."
+  },
+  {
+    "name": "CS50W",
+    "url": "https://cs50.harvard.edu/web/2020/",
+    "description": "Harvard's University introductory course to web development, it explains Django as backend framework."
+  },
+  {
+    "name": "Django Forum",
+    "url": "https://forum.djangoproject.com/",
+    "description": "Official Discourse board."
+  },
+  {
+    "name": "Community Page",
+    "url": "https://www.djangoproject.com/community/",
+    "description": "Featuring feeds of Community Blog Posts, Jobs, and more."
+  },
+  {
+    "name": "Local Django Communities Page",
+    "url": "https://www.djangoproject.com/community/local/",
+    "description": "Featuring local events all around the world."
+  },
+  {
+    "name": "Django Users Google Group",
+    "url": "https://groups.google.com/forum/#!forum/django-users/",
+    "description": "Very active discussion board for questions/answers."
+  },
+  {
+    "name": "Developers Google Group",
+    "url": "https://groups.google.com/forum/#!forum/django-developers/",
+    "description": "For contributions to Django itself only."
+  },
+  {
+    "name": "Mastodon",
+    "url": "https://fosstodon.org/@django",
+    "description": "For official announcements on updates, security fixes, etc."
+  },
+  {
+    "name": "X (formerly Twitter)",
+    "url": "https://x.com/djangoproject/",
+    "description": "For official announcements on updates, security fixes, etc."
+  },
+  {
+    "name": "Discord Server",
+    "url": "https://discord.com/invite/xcRH6mN4fa",
+    "description": "Django Discord Community."
+  },
+  {
+    "name": "IRC Channel",
+    "url": "https://djangonaut.space",
+    "description": "Chat with other Django users at irc://irc.freenode.net/django."
+  },
+  {
+    "name": "DjangoCon US (YouTube Channel)",
+    "url": "https://djangocon.us/",
+    "description": null
+  },
+  {
+    "name": "DjangoCon Europe (YouTube Channel)",
+    "url": "https://djangocon.eu/",
+    "description": null
+  },
+  {
+    "name": "DjangoCon AU",
+    "url": "https://djangocon.com.au/",
+    "description": null
+  },
+  {
+    "name": "DjangoCon Africa",
+    "url": "https://djangocon.africa/",
+    "description": null
+  },
+  {
+    "name": "Django Day Copenhagen (YouTube Channel)",
+    "url": "https://djangoday.dk/",
+    "description": null
+  },
+  {
+    "name": "PyCon US (YouTube Channel)",
+    "url": "https://us.pycon.org/",
+    "description": null
+  },
+  {
+    "name": "PyCon Australia (YouTube Channel)",
+    "url": "https://pycon-au.org/",
+    "description": null
+  },
+  {
+    "name": "Euro Python (YouTube Channel)",
+    "url": "https://europython.eu/",
+    "description": null
+  },
+  {
+    "name": "Django Under the Hood",
+    "url": "https://www.youtube.com/channel/UC9T1dhIlL_8Va9DxvKRowBw/videos",
+    "description": null
+  },
+  {
+    "name": "DjangoCongress JP (YouTube Channel)",
+    "url": "https://djangocongress.jp/",
+    "description": null
+  },
+  {
+    "name": "Complete listing of all PyCons globally",
+    "url": "https://pycon.org",
+    "description": null
+  },
+  {
+    "name": "Django News Jobs",
+    "url": "https://jobs.django-news.com/",
+    "description": "A Django job board that also aggregates other job boards."
+  },
+  {
+    "name": "Django Gigs",
+    "url": "https://djangogigs.com",
+    "description": "This platform caters specifically to freelance and full-time Django developers."
+  },
+  {
+    "name": "Django Jobs",
+    "url": "https://djangojobs.net",
+    "description": "Django jobs posting for hiring Django Python developers."
+  },
+  {
+    "name": "Python.org Job Boards",
+    "url": "https://www.python.org/jobs/",
+    "description": "While not exclusively for Django, this job board is hosted by the official Python website and features a range of Python and Django-related job opportunities."
+  },
+  {
+    "name": "Django News",
+    "url": "https://django-news.com",
+    "description": "Weekly newsletter on announcements, articles, projects, and talks."
+  },
+  {
+    "name": "Django Chat",
+    "url": "https://djangochat.com/",
+    "description": "A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests."
+  },
+  {
+    "name": "Django Riffs",
+    "url": "https://djangoriffs.com",
+    "description": "A new podcast from Matt Layman."
+  },
+  {
+    "name": "Running in Production",
+    "url": "https://runninginproduction.com/tags/django",
+    "description": "Focused on tech stacks with many episodes specifically on Django."
+  },
+  {
+    "name": "TalkPython",
+    "url": "https://talkpython.fm/",
+    "description": "The leading Python podcast with several episodes on Django."
+  },
+  {
+    "name": "Podcast Init",
+    "url": "https://www.pythonpodcast.com/",
+    "description": "A popular Python podcast that features Django guests on occasion."
+  },
+  {
+    "name": "Django Brew",
+    "url": "https://djangobrew.com/",
+    "description": "A fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!"
+  },
+  {
+    "name": "DjangoTV",
+    "url": "https://djangotv.com",
+    "description": "Your source for Django conference videos and tutorials."
+  },
+  {
+    "name": "PyVideo",
+    "url": "https://pyvideo.org",
+    "description": "PyVideo is an index of Python related media."
+  },
+  {
+    "name": "Boost Your Django DX",
+    "url": "https://adamchainz.gumroad.com/l/byddx",
+    "description": null
+  },
+  {
+    "name": "Django 5 By Example",
+    "url": "https://www.packtpub.com/en-us/product/django-5-by-example-9781805125457",
+    "description": null
+  },
+  {
+    "name": "Django in Action",
+    "url": "https://www.manning.com/books/django-in-action",
+    "description": null
+  },
+  {
+    "name": "Django for Beginners, Fifth Edition",
+    "url": "https://djangoforbeginners.com/",
+    "description": null
+  },
+  {
+    "name": "Django for APIs: Build web APIs with Python and Django",
+    "url": "https://djangoforapis.com/",
+    "description": null
+  },
+  {
+    "name": "Django for Professionals: Production websites with Python and Django",
+    "url": "https://djangoforprofessionals.com/",
+    "description": null
+  },
+  {
+    "name": "Understand Django: An Exploration of the Django Web Framework",
+    "url": "https://www.mattlayman.com/understand-django/",
+    "description": null
+  },
+  {
+    "name": "Speed Up Your Django Tests",
+    "url": "https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/",
+    "description": null
+  },
+  {
+    "name": "Two Scoops of Django 3.x: Best Practices for the Django Web Framework",
+    "url": "https://www.feldroy.com/books/two-scoops-of-django-3-x",
+    "description": null
+  },
+  {
+    "name": "A Wedge of Django: Covers Python 3.8 and Django 3.x",
+    "url": "https://www.feldroy.com/books/a-wedge-of-django",
+    "description": null
+  },
+  {
+    "name": "Appliku",
+    "url": "https://appliku.com",
+    "description": null
+  },
+  {
+    "name": "Dokku",
+    "url": "https://dokku.com",
+    "description": null
+  },
+  {
+    "name": "Divio",
+    "url": "https://www.divio.com",
+    "description": null
+  },
+  {
+    "name": "Fly",
+    "url": "https://fly.io",
+    "description": null
+  },
+  {
+    "name": "Google Cloud",
+    "url": "https://cloud.google.com/python/django/",
+    "description": null
+  },
+  {
+    "name": "Heroku",
+    "url": "https://www.heroku.com",
+    "description": null
+  },
+  {
+    "name": "Microsoft Azure",
+    "url": "https://azure.microsoft.com/en-us/develop/python/",
+    "description": null
+  },
+  {
+    "name": "Piku",
+    "url": "https://github.com/piku/piku",
+    "description": null
+  },
+  {
+    "name": "Platform.sh",
+    "url": "https://platform.sh",
+    "description": null
+  },
+  {
+    "name": "PythonAnywhere",
+    "url": "https://www.pythonanywhere.com",
+    "description": null
+  },
+  {
+    "name": "Railway",
+    "url": "https://railway.app",
+    "description": null
+  },
+  {
+    "name": "Render",
+    "url": "https://render.com",
+    "description": null
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com/home",
+    "description": null
+  },
+  {
+    "name": "Digital Ocean",
+    "url": "https://www.digitalocean.com",
+    "description": null
+  },
+  {
+    "name": "Linode",
+    "url": "https://www.linode.com",
+    "description": null
+  },
+  {
+    "name": "Amazon Lightsail",
+    "url": "https://aws.amazon.com/lightsail/",
+    "description": null
+  },
+  {
+    "name": "Hetzner",
+    "url": "https://www.hetzner.com",
+    "description": null
+  },
+  {
+    "name": "cookiecutter-django",
+    "url": "https://github.com/pydanny/cookiecutter-django/",
+    "description": "A full-bodied starter project, highly customizable."
+  },
+  {
+    "name": "django-base-site",
+    "url": "https://github.com/epicserve/django-base-site/",
+    "description": "A Django site with many common third-party packages pre-installed."
+  },
+  {
+    "name": "djangox",
+    "url": "https://github.com/wsvincent/djangox/",
+    "description": "Batteries included starter project for Pip, Pipenv, or Docker."
+  },
+  {
+    "name": "DRFx",
+    "url": "https://github.com/wsvincent/drfx/",
+    "description": "A DRF starter with user auth, Pipenv, and other goodies."
+  },
+  {
+    "name": "django-project-template",
+    "url": "https://github.com/jpadilla/django-project-template",
+    "description": "A deliberately basic project that has multiple staging environments and Heroku deployment config."
+  },
+  {
+    "name": "django-docker-template",
+    "url": "https://github.com/amerkurev/django-docker-template",
+    "description": "Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt)."
+  },
+  {
+    "name": "django-startproject",
+    "url": "https://github.com/jefftriplett/django-startproject",
+    "description": "Django start project template with batteries."
+  },
+  {
+    "name": "wemake-django-template",
+    "url": "https://github.com/wemake-services/wemake-django-template/",
+    "description": "Bleeding edge Django template focused on code quality and security."
+  },
+  {
+    "name": "django-webpack-starter",
+    "url": "https://github.com/khadegd/django-webpack-starter",
+    "description": "Django Webpack starter template for using Webpack 4."
+  },
+  {
+    "name": "sos-django-template",
+    "url": "https://github.com/erayerdin/sos-django-template",
+    "description": "Django starter template with separate dev and production settings."
+  },
+  {
+    "name": "django-docker-heroku-template",
+    "url": "https://github.com/bfirsh/django-docker-heroku-template",
+    "description": "A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices."
+  },
+  {
+    "name": "cookiecutter-vue-django",
+    "url": "https://github.com/ilikerobots/cookiecutter-vue-django",
+    "description": "Django + Vue starter project fusing Vue SFCs & Django Templates."
+  },
+  {
+    "name": "launchr",
+    "url": "https://github.com/jayfk/launchr",
+    "description": "Launchr is a specialized Django starter template for SaaS web apps."
+  },
+  {
+    "name": "sidewinder",
+    "url": "https://github.com/stribny/sidewinder/",
+    "description": "A Django starter kit that focuses on good defaults, developer experience, and deployment."
+  },
+  {
+    "name": "Falco",
+    "url": "https://github.com/tobi-de/falco",
+    "description": "Enhance your Django developer experience: CLI and Guides for the Modern Django Developer."
+  },
+  {
+    "name": "Blaze.horse",
+    "url": "https://github.com/piepworks/blaze-starter",
+    "description": "A Django starter kit with reins and saddle included!"
+  },
+  {
+    "name": "Blog app with users and forms",
+    "url": "https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/",
+    "description": null
+  },
+  {
+    "name": "Newspaper app with custom user model, full user auth",
+    "url": "https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments",
+    "description": null
+  },
+  {
+    "name": "pythonic-news",
+    "url": "https://github.com/sebst/pythonic-news",
+    "description": "Hacker News clone."
+  },
+  {
+    "name": "Behavior-Driven Development with Aloe",
+    "url": "https://github.com/testdrivenio/django-aloe-bdd/",
+    "description": null
+  },
+  {
+    "name": "Image Sharing Blog",
+    "url": "https://github.com/MeNsaaH/soMedia",
+    "description": null
+  },
+  {
+    "name": "Bootcamp: An enterprise social network",
+    "url": "https://github.com/vitorfs/bootcamp",
+    "description": null
+  },
+  {
+    "name": "Zulip",
+    "url": "https://github.com/zulip/zulip/",
+    "description": "Open-source team chat."
+  },
+  {
+    "name": "Django-CRM",
+    "url": "https://github.com/MicroPyramid/Django-CRM/",
+    "description": "Open Source Python CRM based on Django."
+  },
+  {
+    "name": "django-job-portal",
+    "url": "https://github.com/manjurulhoque/django-job-portal",
+    "description": "Job portal application using Django."
+  },
+  {
+    "name": "Built with Django",
+    "url": "https://builtwithdjango.com",
+    "description": "Curated list of awesome Django projects."
+  },
+  {
+    "name": "PostHog",
+    "url": "https://github.com/PostHog/posthog",
+    "description": "Open-source product analytics."
+  },
+  {
+    "name": "HyperKitty",
+    "url": "https://gitlab.com/mailman/hyperkitty",
+    "description": "A web interface to access GNU Mailman v3 archives."
+  },
+  {
+    "name": "Healthchecks",
+    "url": "https://github.com/healthchecks/healthchecks",
+    "description": "A Cron Monitoring Tool written in Python & Django."
+  },
+  {
+    "name": "Flagsmith",
+    "url": "https://github.com/Flagsmith/flagsmith",
+    "description": "Open-source Feature Flagging, Remote Config, and AB testing."
+  },
+  {
+    "name": "OpenContracts",
+    "url": "https://github.com/JSv4/OpenContracts",
+    "description": "Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration."
+  },
+  {
+    "name": "Baserow",
+    "url": "https://gitlab.com/baserow/baserow",
+    "description": "Open source no-code database and Airtable alternative built with Django and Vue.js."
+  },
+  {
+    "name": "Django CRM Admin",
+    "url": "https://github.com/DjangoCRM/django-crm",
+    "description": "Open source Python CRM built entirely on Django Admin Site."
+  },
+  {
+    "name": "linkding",
+    "url": "https://github.com/sissbruecker/linkding",
+    "description": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker."
+  },
+  {
+    "name": "Official Documentation",
+    "url": "https://www.django-rest-framework.org/",
+    "description": null
+  },
+  {
+    "name": "DRF Source Code",
+    "url": "https://github.com/encode/django-rest-framework",
+    "description": null
+  },
+  {
+    "name": "awesome-django-rest-framework",
+    "url": "https://github.com/nioperas06/awesome-django-rest-framework",
+    "description": null
+  },
+  {
+    "name": "Official REST Framework",
+    "url": "https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners",
+    "description": "A Beginner's Guide"
+  },
+  {
+    "name": "Building APIs with Django and DRF",
+    "url": "https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/",
+    "description": null
+  },
+  {
+    "name": "DRF with React",
+    "url": "https://www.valentinog.com/blog/drf/",
+    "description": null
+  },
+  {
+    "name": "Making React and Django play well together",
+    "url": "https://fractalideas.com/blog/making-react-and-django-play-well-together/",
+    "description": null
+  },
+  {
+    "name": "Official website",
+    "url": "https://wagtail.org/",
+    "description": null
+  },
+  {
+    "name": "Developer documentation",
+    "url": "https://docs.wagtail.org/en/stable/",
+    "description": null
+  },
+  {
+    "name": "User documentation",
+    "url": "https://guide.wagtail.org/en-latest/",
+    "description": null
+  },
+  {
+    "name": "Wagtail Source Code",
+    "url": "https://github.com/wagtail/wagtail/",
+    "description": null
+  },
+  {
+    "name": "awesome-wagtail",
+    "url": "https://github.com/springload/awesome-wagtail",
+    "description": null
+  },
+  {
+    "name": "This week in Wagtail",
+    "url": "https://wagtail.org/this-week-in-wagtail/",
+    "description": "A (most) weekly email with updates from the Wagtail core team."
+  },
+  {
+    "name": "Wagtail Space",
+    "url": "https://www.wagtail.space/",
+    "description": "Wagtail conferences around the world."
+  },
+  {
+    "name": "Wagtail events",
+    "url": "https://wagtail.org/events/",
+    "description": "Online and in-person Wagtail events."
+  }
+]
